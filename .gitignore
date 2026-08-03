@@ -1,0 +1,10 @@
+# macOS metadata
+.DS_Store
+
+# Machine-local Obsidian state
+.obsidian/workspace*.json
+.obsidian/cache/
+.trash/
+
+# Runtime-generated plugin caches and logs
+.obsidian/plugins/*/cache/

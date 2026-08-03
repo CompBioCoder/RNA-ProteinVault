@@ -1,0 +1,9 @@
+{
+	"id": "agent-dashboard",
+	"name": "RNA-Protein Dashboard",
+	"version": "0.3.0",
+	"minAppVersion": "1.8.0",
+	"description": "A local dashboard for RNA and protein literature coverage, Vault health, research tasks, and collection audits.",
+	"author": "Jason",
+	"isDesktopOnly": false
+}

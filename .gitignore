@@ -8,3 +8,6 @@
 
 # Runtime-generated plugin caches and logs
 .obsidian/plugins/*/cache/
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.venv/

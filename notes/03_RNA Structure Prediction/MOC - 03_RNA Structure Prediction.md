@@ -10,6 +10,12 @@ author: "Jason"
 
 返回 [[00_Home/RNA-Protein Research Hub|Research Hub]]。
 
+## Research loop
+
+- [[notes/03_RNA Structure Prediction/Synthesis - 03_RNA Structure Prediction|综合笔记 / Synthesis]] — 7 篇精读形成的当前共识、矛盾与下一步方向。
+- [[00_Home/Idea Backlog|空白清单 / Idea backlog]] — 汇总所有 `Open questions / Gaps`，并在 Dashboard 中实时扫描。
+- 本轮状态：7 篇已精读；下一次综合触发条件为新增 5 篇已精读或 30 天未更新。
+
 ## Zotero references (22)
 
 - [[notes/03_RNA Structure Prediction/RNA二级结构预测的建模及其应用研究 [IHXNZRLS]|RNA二级结构预测的建模及其应用研究]]

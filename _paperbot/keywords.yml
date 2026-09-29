@@ -1,0 +1,108 @@
+# ─────────────────────────────────────────────────────────────
+#  RNA × Protein 文献雷达 · 关键词规则
+#  这是你唯一需要经常改的文件。改完 push，第二天生效。
+#  匹配规则：不区分大小写，按"词前缀"匹配（fold 能匹配 folding，
+#  但 rna 不会匹配 mrna——所以 mrna 要单独列）。
+# ─────────────────────────────────────────────────────────────
+
+max_per_day: 8        # 每天最多进 inbox 的篇数（上网站的就这几篇）
+min_score: 4          # 低于此分的即使通过硬性门槛也只进 data/archive
+days_back: 3          # 每次回看几天（防漏；去重会挡住重复）
+index_days: 7         # 首页展示最近几天
+title_bonus: 1        # 加分词出现在标题里，额外 +1
+topic_exclude: [00_Home]   # 形如 NN_xxx 但不是文献分类的目录
+
+sources:
+  arxiv:
+    enabled: true
+    terms: [RNA, ribonucleic, aptamer, riboswitch, ribozyme]   # 任一出现在标题/摘要
+    categories: [q-bio.BM, q-bio.QM, q-bio.GN, cs.LG, cs.AI, physics.bio-ph]
+    max_results: 200
+  biorxiv:
+    enabled: true
+    servers: [biorxiv]                 # 可加 medrxiv
+    categories: [bioinformatics, biophysics, molecular biology, biochemistry,
+                 genomics, synthetic biology, systems biology]
+    max_pages: 30
+  pubmed:
+    enabled: true
+    query: >-
+      (RNA[Title/Abstract]) AND
+      (protein[Title/Abstract] OR structure[Title/Abstract] OR design[Title/Abstract]
+       OR "deep learning"[Title/Abstract] OR "machine learning"[Title/Abstract]
+       OR "language model"[Title/Abstract])
+    max_results: 150
+
+# 硬性门槛：下面每一组都至少命中一个词，否则直接丢弃（不进 archive）
+must_match:
+  - [rna, mrna, ncrna, lncrna, mirna, sirna, circrna, ribonucleic, aptamer,
+     ribozyme, riboswitch, rbp, ribosom, nucleic acid]
+  - [protein, structur, design, deep learning, machine learning, language model,
+     diffusion, transformer, binding, fold, interaction, predict, generative,
+     dataset, benchmark, database]
+
+# 加分词：每命中一次 +权重（同一词最多计 2 次）
+positive:
+  rna-protein: 4
+  protein-rna: 4
+  rna-binding protein: 4
+  rna binding protein: 4
+  protein-nucleic acid: 3
+  rbp: 3
+  rna structure: 3
+  rna 3d structure: 3
+  tertiary structure: 3
+  secondary structure: 2
+  rna design: 4
+  sequence design: 3
+  inverse folding: 3
+  protein design: 3
+  binder: 2
+  aptamer: 3
+  riboswitch: 2
+  ribozyme: 2
+  rna language model: 4
+  language model: 2
+  foundation model: 2
+  diffusion model: 2
+  generative: 2
+  alphafold: 3
+  rosettafold: 3
+  boltz: 3
+  cryo-em: 2
+  binding affinity: 2
+  binding site: 2
+  rna-ligand: 2
+  benchmark: 2
+  dataset: 1
+  database: 1
+
+# 减分词：把 scRNA-seq / 临床 / 表达分析这类噪音压下去
+negative:
+  clinical trial: -4
+  patient: -2
+  cohort: -3
+  epidemiolog: -4
+  prognos: -3
+  biomarker: -2
+  single-cell: -3
+  scrna: -3
+  rna-seq: -2
+  transcriptom: -2
+  differential expression: -3
+  qpcr: -2
+  knockdown: -1
+
+# 自动分到 Obsidian 目录：按顺序取第一个命中的组；都不命中用 default_topic
+topic_rules:
+  00_Reviews: [review, survey, perspective, overview, roadmap]
+  05_RNA Sequence Design: [rna design, sequence design, inverse folding, aptamer, riboswitch]
+  04_RNA Structure Assessment: [model quality, quality assessment, scoring function, rmsd, casp, rna-puzzles]
+  03_RNA Structure Prediction: [structure prediction, alphafold, rosettafold, boltz, fold]
+  02_RNA Structure: [cryo-em, crystal structure, nmr, tertiary, motif, ribosom]
+  07_Protein Design: [protein design, binder, de novo]
+  06_Protein Prediction: [protein structure prediction, protein language model, esm]
+  09_Datasets & Databases: [database, dataset, resource, benchmark]
+  08_AI Methods: [language model, diffusion, transformer, deep learning, neural network, foundation model, graph neural]
+  01_RNA Biology: [rbp, rna-binding, regulation, splicing, translation, localization]
+default_topic: 01_RNA Biology

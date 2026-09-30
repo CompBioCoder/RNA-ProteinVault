@@ -1,12 +1,21 @@
 ---
 title: RNA × Protein 文献雷达
 publish: true
-date: 2026-09-29
+date: 2026-09-30
 ---
 
 每天自动抓取 arXiv / bioRxiv / PubMed，关键词打分后只留最相关的几篇。⭐ = 已标为必读。
 
 → [[starred|必读清单]] · [[topics|分类总览]]
+
+## 2026-09-30（4 篇）
+
+| 分 | 论文 | 来源 | 分类 |
+|:-:|---|---|---|
+| 8 | [[inbox/2026-09-30-biorxiv-2026.09.25.754511|DSSNA: An Open-Source GROMACS Module for Automated Analysis of Nucleic Acid Secondary and Tertiary Structure in Molecular Dynamics Simulations]] | bioRxiv | 02_RNA Structure |
+| 6 | [[inbox/2026-09-30-pubmed-42808009|ProNA3D: Distance-Based Analysis of Nucleic Acid-Containing Interfaces.]] | PubMed | 03_RNA Structure Prediction |
+| 5 | [[inbox/2026-09-30-pubmed-42809082|Conserved and Tissue-Specific RNA and Protein Cargos of Small Extracellular Vesicles From 120 Tissue Sites Across 34 Organs in a Single Pig.]] | PubMed | 09_Datasets & Databases |
+| 4 | [[inbox/2026-09-30-pubmed-42808827|Genetic polymorphisms in the SLC27A5 gene are associated with biochemical characteristics of HBV patients in Yunnan.]] | PubMed | 03_RNA Structure Prediction |
 
 ## 2026-09-29（8 篇）
 

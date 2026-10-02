@@ -1,12 +1,25 @@
 ---
 title: RNA × Protein 文献雷达
 publish: true
-date: 2026-10-01
+date: 2026-10-02
 ---
 
 每天自动抓取 arXiv / bioRxiv / PubMed，关键词打分后只留最相关的几篇。⭐ = 已标为必读。
 
 → [[starred|必读清单]] · [[topics|分类总览]]
+
+## 2026-10-02（8 篇）
+
+| 分 | 论文 | 来源 | 分类 |
+|:-:|---|---|---|
+| 20 | [[inbox/2026-10-02-pubmed-42818729|Predicting Capsid Protein Binding Sites in Single-Stranded RNA Viruses Using Machine Learning from Local Geometric Features.]] | PubMed | 03_RNA Structure Prediction |
+| 15 | [[inbox/2026-10-02-pubmed-42816425|CAML-RNA: Commutative Algebra Machine Learning for RNA-Ligand Binding Affinity Prediction.]] | PubMed | 05_RNA Sequence Design |
+| 15 | [[inbox/2026-10-02-pubmed-42818099|Sex-specific metabolic regulation by the Drosophila RNA-binding protein Nab2.]] | PubMed | 01_RNA Biology |
+| 11 | [[inbox/2026-10-02-pubmed-42818289|Ebola virus mRNAs contain RNA structures that are critical for viral infection and targetable by antisense oligonucleotides.]] | PubMed | 02_RNA Structure |
+| 11 | [[inbox/2026-10-02-pubmed-42818779|Markov models of SHAPE data improve secondary structure prediction.]] | PubMed | 03_RNA Structure Prediction |
+| 10 | [[inbox/2026-10-02-pubmed-42818330|Engineering circular RNA expression systems to minimize contaminating linear RNA byproducts.]] | PubMed | 09_Datasets & Databases |
+| 10 | [[inbox/2026-10-02-pubmed-42818199|Epigenetic regulation of DPP4 receptor expression by NONO enables replication of MERS-CoV.]] | PubMed | 01_RNA Biology |
+| 10 | [[inbox/2026-10-02-pubmed-42818313|FAST-MaP: Chemical Mapping of RNA Structures Using Primer-less Sequencing.]] | PubMed | 03_RNA Structure Prediction |
 
 ## 2026-10-01（6 篇）
 

@@ -1,12 +1,25 @@
 ---
 title: RNA × Protein 文献雷达
 publish: true
-date: 2026-10-02
+date: 2026-10-03
 ---
 
 每天自动抓取 arXiv / bioRxiv / PubMed，关键词打分后只留最相关的几篇。⭐ = 已标为必读。
 
 → [[starred|必读清单]] · [[topics|分类总览]]
+
+## 2026-10-03（8 篇）
+
+| 分 | 论文 | 来源 | 分类 |
+|:-:|---|---|---|
+| 9 | [[inbox/2026-10-03-pubmed-42825680|RNA-Protein Assemblies: A Review of Biophysical Principles and Coarse-Grained Modeling Approaches.]] | PubMed | 00_Reviews |
+| 6 | [[inbox/2026-10-03-pubmed-42822822|An information-dynamics model of protein-templated DNA synthesis: From qualitative observations to quantitative predictions.]] | PubMed | 05_RNA Sequence Design |
+| 6 | [[inbox/2026-10-03-pubmed-42826179|DeCoRE: A computational method to resolve RNA structural heterogeneity from RNA structure probing data by direct RNA sequencing.]] | PubMed | 05_RNA Sequence Design |
+| 6 | [[inbox/2026-10-03-arxiv-2609.39271|RW-Flow: One-Step Generation on Compact Manifolds via Wasserstein Gradient Flows]] | arXiv | 09_Datasets & Databases |
+| 5 | [[inbox/2026-10-03-pubmed-42821365|Statement of Retraction: Propofol modulates glycolysis reprogramming of ovarian tumor via restraining circular RNA-zinc finger RNA-binding protein/microRNA-212-5p/superoxide dismutase 2 axis.]] | PubMed | 01_RNA Biology |
+| 5 | [[inbox/2026-10-03-pubmed-42820776|Statement of retraction: SLC8A1 antisense RNA 1 suppresses papillary thyroid cancer malignant progression via the FUS RNA binding protein (FUS)/NUMB like endocytic adaptor protein (Numbl) axis.]] | PubMed | 01_RNA Biology |
+| 4 | [[inbox/2026-10-03-pubmed-42826195|A TERRA-NONO axis drives fibroblast reprogramming in cancer.]] | PubMed | 01_RNA Biology |
+| 4 | [[inbox/2026-10-03-pubmed-42826084|Statement of Retraction: N6-methyladenosine reader YTH N6-methyladenosine RNA binding protein 3 or insulin like growth factor 2 mRNA binding protein 2 knockdown protects human bronchial epithelial cells from hypoxia/reoxygenation injury by inactivating p38 MAPK, AKT, ERK1/2, and NF-κB pathways.]] | PubMed | 01_RNA Biology |
 
 ## 2026-10-02（8 篇）
 

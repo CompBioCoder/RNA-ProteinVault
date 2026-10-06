@@ -1,12 +1,21 @@
 ---
 title: RNA × Protein 文献雷达
 publish: true
-date: 2026-10-05
+date: 2026-10-06
 ---
 
 每天自动抓取 arXiv / bioRxiv / PubMed，关键词打分后只留最相关的几篇。⭐ = 已标为必读。
 
 → [[starred|必读清单]] · [[topics|分类总览]]
+
+## 2026-10-06（4 篇）
+
+| 分 | 论文 | 来源 | 分类 |
+|:-:|---|---|---|
+| 4 | [[inbox/2026-10-06-pubmed-42830633|Capturing Hu Antigen R Domain Closure Through Supervised Molecular Dynamics Simulations.]] | PubMed | 02_RNA Structure |
+| 4 | [[inbox/2026-10-06-pubmed-42829931|Emerging roles of long non-coding RNA CASC2 in tumor chemoresistance - a review.]] | PubMed | 00_Reviews |
+| 4 | [[inbox/2026-10-06-pubmed-42830491|Ptbp1 Condensates With Phase Separation-Like Features in Cardiomyocyte Nuclei Regulate Splicing of Proliferative Genes in Neonatal Cardiomyocytes.]] | PubMed | 01_RNA Biology |
+| 4 | [[inbox/2026-10-06-pubmed-42830243|Retraction notice to "Based on the Cancer Genome Atlas Database Development of a prognostic model of RNA binding protein in stomach adenocarcinoma" [Computers in Biology and Medicine 164 (2023) 107307].]] | PubMed | 09_Datasets & Databases |
 
 ## 2026-10-03（8 篇）
 

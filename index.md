@@ -1,12 +1,24 @@
 ---
 title: RNA × Protein 文献雷达
 publish: true
-date: 2026-10-07
+date: 2026-10-08
 ---
 
 每天自动抓取 arXiv / bioRxiv / PubMed，关键词打分后只留最相关的几篇。⭐ = 已标为必读。
 
 → [[starred|必读清单]] · [[topics|分类总览]]
+
+## 2026-10-08（7 篇）
+
+| 分 | 论文 | 来源 | 分类 |
+|:-:|---|---|---|
+| 8 | [[inbox/2026-10-08-pubmed-42840230|Bidirectional photoriboswitch for translational regulation in mammalian cells.]] | PubMed | 01_RNA Biology |
+| 8 | [[inbox/2026-10-08-pubmed-42840544|Bioactive compounds from Tetradenia riparia and Tetracera poggei: antioxidant activity, UPLC-QTOF-MS phytochemical profiling, and in silico targeting of the RNA-binding protein DRBD18 of Trypanosoma brucei.]] | PubMed | 03_RNA Structure Prediction |
+| 8 | [[inbox/2026-10-08-pubmed-42840727|Dysregulated mRNA Translation in Alzheimer's Disease: Mechanisms, Therapeutic Opportunities, and Challenges for Clinical Translation.]] | PubMed | 00_Reviews |
+| 4 | [[inbox/2026-10-08-pubmed-42840375|Engineering TnpB as a compact RNA-guided genome editor from molecular constraints to design principles.]] | PubMed | 00_Reviews |
+| 4 | [[inbox/2026-10-08-pubmed-42842404|MATRIN3 deficiency in human cells triggers an autoinflammatory response via cGAS-STING activation.]] | PubMed | 01_RNA Biology |
+| 4 | [[inbox/2026-10-08-pubmed-42842368|ZNF121 recruits YTHDF2 to modulate mRNA stability.]] | PubMed | 01_RNA Biology |
+| 4 | [[inbox/2026-10-08-pubmed-42840684|hnRNPs in immunity: from nucleic acid sensing to lymphocyte fate determination.]] | PubMed | 00_Reviews |
 
 ## 2026-10-07（5 篇）
 
@@ -63,12 +75,3 @@ date: 2026-10-07
 | 8 | [[inbox/2026-10-01-pubmed-42811619|PABPC1 in Cancer: From a Translational Housekeeper to a Stress-Responsive Regulatory Hub.]] | PubMed | 00_Reviews |
 | 4 | [[inbox/2026-10-01-arxiv-2609.37414|Leveraging secondary-structure information for accurate nucleic acid structure prediction with OFoldNA]] | arXiv | 03_RNA Structure Prediction |
 | 4 | [[inbox/2026-10-01-pubmed-42812786|Structural and functional perspectives on DEAD-box RNA helicases in the rubber tree cold stress response.]] | PubMed | 00_Reviews |
-
-## 2026-09-30（4 篇）
-
-| 分 | 论文 | 来源 | 分类 |
-|:-:|---|---|---|
-| 8 | [[inbox/2026-09-30-biorxiv-2026.09.25.754511|DSSNA: An Open-Source GROMACS Module for Automated Analysis of Nucleic Acid Secondary and Tertiary Structure in Molecular Dynamics Simulations]] | bioRxiv | 02_RNA Structure |
-| 6 | [[inbox/2026-09-30-pubmed-42808009|ProNA3D: Distance-Based Analysis of Nucleic Acid-Containing Interfaces.]] | PubMed | 03_RNA Structure Prediction |
-| 5 | [[inbox/2026-09-30-pubmed-42809082|Conserved and Tissue-Specific RNA and Protein Cargos of Small Extracellular Vesicles From 120 Tissue Sites Across 34 Organs in a Single Pig.]] | PubMed | 09_Datasets & Databases |
-| 4 | [[inbox/2026-09-30-pubmed-42808827|Genetic polymorphisms in the SLC27A5 gene are associated with biochemical characteristics of HBV patients in Yunnan.]] | PubMed | 03_RNA Structure Prediction |

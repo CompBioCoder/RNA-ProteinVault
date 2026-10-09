@@ -1,12 +1,25 @@
 ---
 title: RNA × Protein 文献雷达
 publish: true
-date: 2026-10-08
+date: 2026-10-09
 ---
 
 每天自动抓取 arXiv / bioRxiv / PubMed，关键词打分后只留最相关的几篇。⭐ = 已标为必读。
 
 → [[starred|必读清单]] · [[topics|分类总览]]
+
+## 2026-10-09（8 篇）
+
+| 分 | 论文 | 来源 | 分类 |
+|:-:|---|---|---|
+| 13 | [[inbox/2026-10-09-pubmed-42847460|PNBind: Prediction of Nucleic Acid-Binding Sites Using Protein Structure and Protein Language Models.]] | PubMed | 06_Protein Prediction |
+| 11 | [[inbox/2026-10-09-pubmed-42845463|Single-base substitutions switch RNA tertiary allostery between positive and negative coupling.]] | PubMed | 05_RNA Sequence Design |
+| 5 | [[inbox/2026-10-09-pubmed-42845453|Deletion of the gene for a cyanobacterial ribosome-associated protein affects the carbon/nitrogen metabolism.]] | PubMed | 02_RNA Structure |
+| 4 | [[inbox/2026-10-09-pubmed-42845225|E2F1-Activated lncRNA FTX Promotes Asthma Progression via Regulating the SRSF1/RBPJ Axis.]] | PubMed | 01_RNA Biology |
+| 4 | [[inbox/2026-10-09-pubmed-42848549|InterActRNA: A Co-Evolutionary Geometric Deep Learning Framework for RNA-Small Molecule Binding Affinity Prediction.]] | PubMed | 02_RNA Structure |
+| 4 | [[inbox/2026-10-09-pubmed-42845543|Reimagining productive chemical space for RNA recognition beyond aromaticity.]] | PubMed | 05_RNA Sequence Design |
+| 4 | [[inbox/2026-10-09-pubmed-42844403|ZC3H14 phosphorylation is required for nuclear speckle assembly during zygotic splicing activation in mice.]] | PubMed | 01_RNA Biology |
+| 4 | [[inbox/2026-10-09-pubmed-42845007|ZmDLR9 is required for lateral root development via pre-rRNA processing in maize.]] | PubMed | 02_RNA Structure |
 
 ## 2026-10-08（7 篇）
 
@@ -64,14 +77,3 @@ date: 2026-10-08
 | 10 | [[inbox/2026-10-02-pubmed-42818330|Engineering circular RNA expression systems to minimize contaminating linear RNA byproducts.]] | PubMed | 09_Datasets & Databases |
 | 10 | [[inbox/2026-10-02-pubmed-42818199|Epigenetic regulation of DPP4 receptor expression by NONO enables replication of MERS-CoV.]] | PubMed | 01_RNA Biology |
 | 10 | [[inbox/2026-10-02-pubmed-42818313|FAST-MaP: Chemical Mapping of RNA Structures Using Primer-less Sequencing.]] | PubMed | 03_RNA Structure Prediction |
-
-## 2026-10-01（6 篇）
-
-| 分 | 论文 | 来源 | 分类 |
-|:-:|---|---|---|
-| 13 | [[inbox/2026-10-01-arxiv-2609.36885|RNA Design via Conditioned Flow Matching and Finite-Policy Reinforcement Learning]] | arXiv | 05_RNA Sequence Design |
-| 13 | [[inbox/2026-10-01-pubmed-42811101|The cellular landscape of druggable RNA-binding proteins.]] | PubMed | 00_Reviews |
-| 10 | [[inbox/2026-10-01-pubmed-42814557|Tandem RNA-binding domain architecture drives PKR activation through an intramolecular interface.]] | PubMed | 01_RNA Biology |
-| 8 | [[inbox/2026-10-01-pubmed-42811619|PABPC1 in Cancer: From a Translational Housekeeper to a Stress-Responsive Regulatory Hub.]] | PubMed | 00_Reviews |
-| 4 | [[inbox/2026-10-01-arxiv-2609.37414|Leveraging secondary-structure information for accurate nucleic acid structure prediction with OFoldNA]] | arXiv | 03_RNA Structure Prediction |
-| 4 | [[inbox/2026-10-01-pubmed-42812786|Structural and functional perspectives on DEAD-box RNA helicases in the rubber tree cold stress response.]] | PubMed | 00_Reviews |

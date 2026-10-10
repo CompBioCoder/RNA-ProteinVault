@@ -1,12 +1,23 @@
 ---
 title: RNA × Protein 文献雷达
 publish: true
-date: 2026-10-09
+date: 2026-10-10
 ---
 
 每天自动抓取 arXiv / bioRxiv / PubMed，关键词打分后只留最相关的几篇。⭐ = 已标为必读。
 
 → [[starred|必读清单]] · [[topics|分类总览]]
+
+## 2026-10-10（6 篇）
+
+| 分 | 论文 | 来源 | 分类 |
+|:-:|---|---|---|
+| 14 | [[inbox/2026-10-10-pubmed-42852407|Structural basis for Mg²⁺-glycine synergy in the tandem glycine riboswitch revealed by cryo-EM.]] | PubMed | 05_RNA Sequence Design |
+| 8 | [[inbox/2026-10-10-arxiv-2610.12236|La-Ribo: RNA Co-Design via Geometry-Latent Flow Matching]] | arXiv | 05_RNA Sequence Design |
+| 6 | [[inbox/2026-10-10-pubmed-42850251|Interpretable machine learning enables de novo mapping of cell type-specific RNA splicing regulation from scRNA-seq data.]] | PubMed | 07_Protein Design |
+| 4 | [[inbox/2026-10-10-pubmed-42849668|Crystal structure of the SLF1 tandem BRCT domains in complex with a RPB2-derived peptide.]] | PubMed | 02_RNA Structure |
+| 4 | [[inbox/2026-10-10-pubmed-42853422|Multiple motor proteins regulate TDP-43 anterograde axonal transport.]] | PubMed | 01_RNA Biology |
+| 4 | [[inbox/2026-10-10-pubmed-42849610|Recurrent catalytic-site change and electrostatic remodeling across the HEPN ribonuclease fold.]] | PubMed | 03_RNA Structure Prediction |
 
 ## 2026-10-09（8 篇）
 
@@ -64,16 +75,3 @@ date: 2026-10-09
 | 5 | [[inbox/2026-10-03-pubmed-42820776|Statement of retraction: SLC8A1 antisense RNA 1 suppresses papillary thyroid cancer malignant progression via the FUS RNA binding protein (FUS)/NUMB like endocytic adaptor protein (Numbl) axis.]] | PubMed | 01_RNA Biology |
 | 4 | [[inbox/2026-10-03-pubmed-42826195|A TERRA-NONO axis drives fibroblast reprogramming in cancer.]] | PubMed | 01_RNA Biology |
 | 4 | [[inbox/2026-10-03-pubmed-42826084|Statement of Retraction: N6-methyladenosine reader YTH N6-methyladenosine RNA binding protein 3 or insulin like growth factor 2 mRNA binding protein 2 knockdown protects human bronchial epithelial cells from hypoxia/reoxygenation injury by inactivating p38 MAPK, AKT, ERK1/2, and NF-κB pathways.]] | PubMed | 01_RNA Biology |
-
-## 2026-10-02（8 篇）
-
-| 分 | 论文 | 来源 | 分类 |
-|:-:|---|---|---|
-| 20 | [[inbox/2026-10-02-pubmed-42818729|Predicting Capsid Protein Binding Sites in Single-Stranded RNA Viruses Using Machine Learning from Local Geometric Features.]] | PubMed | 03_RNA Structure Prediction |
-| 15 | [[inbox/2026-10-02-pubmed-42816425|CAML-RNA: Commutative Algebra Machine Learning for RNA-Ligand Binding Affinity Prediction.]] | PubMed | 05_RNA Sequence Design |
-| 15 | [[inbox/2026-10-02-pubmed-42818099|Sex-specific metabolic regulation by the Drosophila RNA-binding protein Nab2.]] | PubMed | 01_RNA Biology |
-| 11 | [[inbox/2026-10-02-pubmed-42818289|Ebola virus mRNAs contain RNA structures that are critical for viral infection and targetable by antisense oligonucleotides.]] | PubMed | 02_RNA Structure |
-| 11 | [[inbox/2026-10-02-pubmed-42818779|Markov models of SHAPE data improve secondary structure prediction.]] | PubMed | 03_RNA Structure Prediction |
-| 10 | [[inbox/2026-10-02-pubmed-42818330|Engineering circular RNA expression systems to minimize contaminating linear RNA byproducts.]] | PubMed | 09_Datasets & Databases |
-| 10 | [[inbox/2026-10-02-pubmed-42818199|Epigenetic regulation of DPP4 receptor expression by NONO enables replication of MERS-CoV.]] | PubMed | 01_RNA Biology |
-| 10 | [[inbox/2026-10-02-pubmed-42818313|FAST-MaP: Chemical Mapping of RNA Structures Using Primer-less Sequencing.]] | PubMed | 03_RNA Structure Prediction |

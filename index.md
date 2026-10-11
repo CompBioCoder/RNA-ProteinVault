@@ -1,12 +1,20 @@
 ---
 title: RNA × Protein 文献雷达
 publish: true
-date: 2026-10-10
+date: 2026-10-11
 ---
 
 每天自动抓取 arXiv / bioRxiv / PubMed，关键词打分后只留最相关的几篇。⭐ = 已标为必读。
 
 → [[starred|必读清单]] · [[topics|分类总览]]
+
+## 2026-10-11（3 篇）
+
+| 分 | 论文 | 来源 | 分类 |
+|:-:|---|---|---|
+| 8 | [[inbox/2026-10-11-pubmed-42855471|RUNX1 aberrations in blast-phase chronic myeloid leukaemia induce the RNA-binding protein SPATS2L, which promotes growth, survival and stress granule assembly.]] | PubMed | 02_RNA Structure |
+| 4 | [[inbox/2026-10-11-pubmed-42854470|Identification of Tex and the Phage Shock Protein YthA as putative FtsH substrates associated with the cell envelope stress response in Lactococcus cremoris.]] | PubMed | 01_RNA Biology |
+| 4 | [[inbox/2026-10-11-pubmed-42854689|Oligo(uridine) tailing and exonucleolytic decay drive 40S ribosome degradation in response to stress.]] | PubMed | 02_RNA Structure |
 
 ## 2026-10-10（6 篇）
 
@@ -62,16 +70,3 @@ date: 2026-10-10
 | 4 | [[inbox/2026-10-06-pubmed-42829931|Emerging roles of long non-coding RNA CASC2 in tumor chemoresistance - a review.]] | PubMed | 00_Reviews |
 | 4 | [[inbox/2026-10-06-pubmed-42830491|Ptbp1 Condensates With Phase Separation-Like Features in Cardiomyocyte Nuclei Regulate Splicing of Proliferative Genes in Neonatal Cardiomyocytes.]] | PubMed | 01_RNA Biology |
 | 4 | [[inbox/2026-10-06-pubmed-42830243|Retraction notice to "Based on the Cancer Genome Atlas Database Development of a prognostic model of RNA binding protein in stomach adenocarcinoma" [Computers in Biology and Medicine 164 (2023) 107307].]] | PubMed | 09_Datasets & Databases |
-
-## 2026-10-03（8 篇）
-
-| 分 | 论文 | 来源 | 分类 |
-|:-:|---|---|---|
-| 9 | [[inbox/2026-10-03-pubmed-42825680|RNA-Protein Assemblies: A Review of Biophysical Principles and Coarse-Grained Modeling Approaches.]] | PubMed | 00_Reviews |
-| 6 | [[inbox/2026-10-03-pubmed-42822822|An information-dynamics model of protein-templated DNA synthesis: From qualitative observations to quantitative predictions.]] | PubMed | 05_RNA Sequence Design |
-| 6 | [[inbox/2026-10-03-pubmed-42826179|DeCoRE: A computational method to resolve RNA structural heterogeneity from RNA structure probing data by direct RNA sequencing.]] | PubMed | 05_RNA Sequence Design |
-| 6 | [[inbox/2026-10-03-arxiv-2609.39271|RW-Flow: One-Step Generation on Compact Manifolds via Wasserstein Gradient Flows]] | arXiv | 09_Datasets & Databases |
-| 5 | [[inbox/2026-10-03-pubmed-42821365|Statement of Retraction: Propofol modulates glycolysis reprogramming of ovarian tumor via restraining circular RNA-zinc finger RNA-binding protein/microRNA-212-5p/superoxide dismutase 2 axis.]] | PubMed | 01_RNA Biology |
-| 5 | [[inbox/2026-10-03-pubmed-42820776|Statement of retraction: SLC8A1 antisense RNA 1 suppresses papillary thyroid cancer malignant progression via the FUS RNA binding protein (FUS)/NUMB like endocytic adaptor protein (Numbl) axis.]] | PubMed | 01_RNA Biology |
-| 4 | [[inbox/2026-10-03-pubmed-42826195|A TERRA-NONO axis drives fibroblast reprogramming in cancer.]] | PubMed | 01_RNA Biology |
-| 4 | [[inbox/2026-10-03-pubmed-42826084|Statement of Retraction: N6-methyladenosine reader YTH N6-methyladenosine RNA binding protein 3 or insulin like growth factor 2 mRNA binding protein 2 knockdown protects human bronchial epithelial cells from hypoxia/reoxygenation injury by inactivating p38 MAPK, AKT, ERK1/2, and NF-κB pathways.]] | PubMed | 01_RNA Biology |

@@ -1,12 +1,23 @@
 ---
 title: RNA × Protein 文献雷达
 publish: true
-date: 2026-10-11
+date: 2026-10-12
 ---
 
 每天自动抓取 arXiv / bioRxiv / PubMed，关键词打分后只留最相关的几篇。⭐ = 已标为必读。
 
 → [[starred|必读清单]] · [[topics|分类总览]]
+
+## 2026-10-12（6 篇）
+
+| 分 | 论文 | 来源 | 分类 |
+|:-:|---|---|---|
+| 25 | [[inbox/2026-10-12-pubmed-42856293|RNASeek: A Cross-Phyla Generative Foundation Model for Multipurpose RNA Modeling and Reinforcement Learning-Based Design.]] | PubMed | 05_RNA Sequence Design |
+| 15 | [[inbox/2026-10-12-pubmed-42859746|The CCT chaperonin is a context-dependent regulator of RNA-binding protein phase transitions.]] | PubMed | 01_RNA Biology |
+| 10 | [[inbox/2026-10-12-pubmed-42858780|Partial convergence of alternative polyadenylation changes across ALS-Associated RNA-Binding proteins.]] | PubMed | 09_Datasets & Databases |
+| 9 | [[inbox/2026-10-12-biorxiv-2026.10.07.757386|A transient third metal ion shapes the catalytic cycle of a group I intron ribozyme]] | bioRxiv | 02_RNA Structure |
+| 9 | [[inbox/2026-10-12-pubmed-42856379|Domains of RNA-binding protein Ssd1 required for tolerating chromosome amplification in yeast.]] | PubMed | 03_RNA Structure Prediction |
+| 7 | [[inbox/2026-10-12-pubmed-42856099|RNA Organelles in DNA-Based Artificial Cells Provide Spatial Aptamer Functions and Enhanced Signal Processing.]] | PubMed | 05_RNA Sequence Design |
 
 ## 2026-10-11（3 篇）
 

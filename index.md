@@ -1,12 +1,25 @@
 ---
 title: RNA × Protein 文献雷达
 publish: true
-date: 2026-10-12
+date: 2026-10-13
 ---
 
 每天自动抓取 arXiv / bioRxiv / PubMed，关键词打分后只留最相关的几篇。⭐ = 已标为必读。
 
 → [[starred|必读清单]] · [[topics|分类总览]]
+
+## 2026-10-13（8 篇）
+
+| 分 | 论文 | 来源 | 分类 |
+|:-:|---|---|---|
+| 19 | [[inbox/2026-10-13-pubmed-42862230|Identification of Host Interaction Partners of the Hepatitis E Virus Internal Ribosome Entry Site-Like RNA Using RNA-Protein Interaction Detection Assay and Yeast Three-Hybrid Assay.]] | PubMed | 03_RNA Structure Prediction |
+| 15 | [[inbox/2026-10-13-pubmed-42862223|Predicting RNA and Protein:RNA Complexes with AlphaFold: Possibilities, Limitations, and Practical Guidelines.]] | PubMed | 00_Reviews |
+| 11 | [[inbox/2026-10-13-pubmed-42862226|A Workflow for Identifying Helicase-Dependent RNA Structural Changes in Transcriptional Termination: From DMS Sequencing Analysis to Reporter Assay-Based Validation.]] | PubMed | 03_RNA Structure Prediction |
+| 11 | [[inbox/2026-10-13-pubmed-42862232|In Vitro RNA-Protein Binding Assays to Identify RNA Helicases for U snRNA Nuclear Export.]] | PubMed | 01_RNA Biology |
+| 9 | [[inbox/2026-10-13-pubmed-42862233|Quantifying Label-Free Protein-RNA Binding Using Microscale Thermophoresis.]] | PubMed | 01_RNA Biology |
+| 7 | [[inbox/2026-10-13-pubmed-42862241|In Vitro Assay of Bacterial RNA Helicases Liquid-Liquid Phase Separation.]] | PubMed | 02_RNA Structure |
+| 6 | [[inbox/2026-10-13-pubmed-42862227|Using Cross-Linking and ImmunoPrecipitation (CLIP) to Identify Targets and Specificity Determinants of the YTHDC2 Helicase.]] | PubMed | 01_RNA Biology |
+| 5 | [[inbox/2026-10-13-pubmed-42862238|Native Liquid MALDI (NALIM) Mass Spectrometry Analysis of RNA-Binding Protein Complexes.]] | PubMed | 01_RNA Biology |
 
 ## 2026-10-12（6 篇）
 

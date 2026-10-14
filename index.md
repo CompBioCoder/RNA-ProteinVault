@@ -1,12 +1,22 @@
 ---
 title: RNA × Protein 文献雷达
 publish: true
-date: 2026-10-13
+date: 2026-10-14
 ---
 
 每天自动抓取 arXiv / bioRxiv / PubMed，关键词打分后只留最相关的几篇。⭐ = 已标为必读。
 
 → [[starred|必读清单]] · [[topics|分类总览]]
+
+## 2026-10-14（5 篇）
+
+| 分 | 论文 | 来源 | 分类 |
+|:-:|---|---|---|
+| 17 | [[inbox/2026-10-14-pubmed-42864907|Artificial intelligence (AI)-enabled RNA therapeutic design: from molecular optimization to system-level evaluation.]] | PubMed | 00_Reviews |
+| 13 | [[inbox/2026-10-14-pubmed-42863841|Development of CRISPR/Cas13-based analytical tools to study RNA-protein interactions.]] | PubMed | 01_RNA Biology |
+| 13 | [[inbox/2026-10-14-pubmed-42864337|RAISE quantifies RNA binding protein activity via transcriptomic profiling.]] | PubMed | 02_RNA Structure |
+| 5 | [[inbox/2026-10-14-pubmed-42866468|The Water-Soluble [60]Fullerene Derivatives as Binders of SARS-CoV‑2 Proteins.]] | PubMed | 07_Protein Design |
+| 4 | [[inbox/2026-10-14-pubmed-42865010|Heat-Shock and Cold-Shock Proteins in Energy-Based Aesthetic Medicine.]] | PubMed | 00_Reviews |
 
 ## 2026-10-13（8 篇）
 
@@ -85,12 +95,3 @@ date: 2026-10-13
 | 4 | [[inbox/2026-10-07-pubmed-42837420|A binding-activated CRISPR/dCas13X imaging system enables precise RNA tracking in plants.]] | PubMed | 01_RNA Biology |
 | 4 | [[inbox/2026-10-07-pubmed-42834671|CRISPR-Cas Tools for Dissecting and Engineering Environmental Responses in Microalgae.]] | PubMed | 00_Reviews |
 | 4 | [[inbox/2026-10-07-arxiv-2610.05808|DiMOS: Doob-Guided Inference-Time Multi-Objective Search for Scientific Design]] | arXiv | 08_AI Methods |
-
-## 2026-10-06（4 篇）
-
-| 分 | 论文 | 来源 | 分类 |
-|:-:|---|---|---|
-| 4 | [[inbox/2026-10-06-pubmed-42830633|Capturing Hu Antigen R Domain Closure Through Supervised Molecular Dynamics Simulations.]] | PubMed | 02_RNA Structure |
-| 4 | [[inbox/2026-10-06-pubmed-42829931|Emerging roles of long non-coding RNA CASC2 in tumor chemoresistance - a review.]] | PubMed | 00_Reviews |
-| 4 | [[inbox/2026-10-06-pubmed-42830491|Ptbp1 Condensates With Phase Separation-Like Features in Cardiomyocyte Nuclei Regulate Splicing of Proliferative Genes in Neonatal Cardiomyocytes.]] | PubMed | 01_RNA Biology |
-| 4 | [[inbox/2026-10-06-pubmed-42830243|Retraction notice to "Based on the Cancer Genome Atlas Database Development of a prognostic model of RNA binding protein in stomach adenocarcinoma" [Computers in Biology and Medicine 164 (2023) 107307].]] | PubMed | 09_Datasets & Databases |

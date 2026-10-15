@@ -1,12 +1,24 @@
 ---
 title: RNA × Protein 文献雷达
 publish: true
-date: 2026-10-14
+date: 2026-10-15
 ---
 
 每天自动抓取 arXiv / bioRxiv / PubMed，关键词打分后只留最相关的几篇。⭐ = 已标为必读。
 
 → [[starred|必读清单]] · [[topics|分类总览]]
+
+## 2026-10-15（7 篇）
+
+| 分 | 论文 | 来源 | 分类 |
+|:-:|---|---|---|
+| 18 | [[inbox/2026-10-15-pubmed-42873607|RNADaemon: Reinforcement Learning-Guided Molecular Dynamics for RNA Tertiary Structure Prediction.]] | PubMed | 04_RNA Structure Assessment |
+| 8 | [[inbox/2026-10-15-pubmed-42870191|LLM4PDA: Augmenting piRNA-Disease Association Prediction with Large Language Models.]] | PubMed | 03_RNA Structure Prediction |
+| 7 | [[inbox/2026-10-15-pubmed-42869395|hnRNPU regulates the sorting of exo-miR-125a-5p in colon epithelial cells and its role in realgar-induced central nervous system toxicity.]] | PubMed | 01_RNA Biology |
+| 4 | [[inbox/2026-10-15-pubmed-42867871|Aromatic ring overlap affects excited-state properties of stacked nucleobases.]] | PubMed | 01_RNA Biology |
+| 4 | [[inbox/2026-10-15-pubmed-42872486|CRISPR-HAWK: Haplotype- and Variant-Aware Guide Design Toolkit for CRISPR-Cas.]] | PubMed | 05_RNA Sequence Design |
+| 4 | [[inbox/2026-10-15-pubmed-42872978|Drosophila Orb2 contributes to neural stem cell centrosome asymmetry and cell growth.]] | PubMed | 01_RNA Biology |
+| 4 | [[inbox/2026-10-15-pubmed-42871744|Scp160 deletion suppresses TDP-43 aggregation and toxicity in Saccharomyces cerevisiae.]] | PubMed | 02_RNA Structure |
 
 ## 2026-10-14（5 篇）
 
@@ -85,13 +97,3 @@ date: 2026-10-14
 | 4 | [[inbox/2026-10-08-pubmed-42842404|MATRIN3 deficiency in human cells triggers an autoinflammatory response via cGAS-STING activation.]] | PubMed | 01_RNA Biology |
 | 4 | [[inbox/2026-10-08-pubmed-42842368|ZNF121 recruits YTHDF2 to modulate mRNA stability.]] | PubMed | 01_RNA Biology |
 | 4 | [[inbox/2026-10-08-pubmed-42840684|hnRNPs in immunity: from nucleic acid sensing to lymphocyte fate determination.]] | PubMed | 00_Reviews |
-
-## 2026-10-07（5 篇）
-
-| 分 | 论文 | 来源 | 分类 |
-|:-:|---|---|---|
-| 19 | [[inbox/2026-10-07-pubmed-42833624|Machine Learning to Enhance Biophysical Models for Riboswitch Discovery.]] | PubMed | 05_RNA Sequence Design |
-| 8 | [[inbox/2026-10-07-pubmed-42833214|DND1-NANOS3 shapes the PGC transcriptome via a heptanucleotide sequence in mRNA 3' UTRs.]] | PubMed | 02_RNA Structure |
-| 4 | [[inbox/2026-10-07-pubmed-42837420|A binding-activated CRISPR/dCas13X imaging system enables precise RNA tracking in plants.]] | PubMed | 01_RNA Biology |
-| 4 | [[inbox/2026-10-07-pubmed-42834671|CRISPR-Cas Tools for Dissecting and Engineering Environmental Responses in Microalgae.]] | PubMed | 00_Reviews |
-| 4 | [[inbox/2026-10-07-arxiv-2610.05808|DiMOS: Doob-Guided Inference-Time Multi-Objective Search for Scientific Design]] | arXiv | 08_AI Methods |

@@ -8,17 +8,23 @@ date: 2026-10-15
 
 → [[starred|必读清单]] · [[topics|分类总览]]
 
-## 2026-10-15（7 篇）
+## 2026-10-15（13 篇）
 
 | 分 | 论文 | 来源 | 分类 |
 |:-:|---|---|---|
 | 18 | [[inbox/2026-10-15-pubmed-42873607|RNADaemon: Reinforcement Learning-Guided Molecular Dynamics for RNA Tertiary Structure Prediction.]] | PubMed | 04_RNA Structure Assessment |
+| 9 | [[inbox/2026-10-15-pubmed-42878197|RNA-Binding Proteins Regulate CD8+ T Cell Biology: Mechanisms and Therapeutic Opportunities.]] | PubMed | 01_RNA Biology |
+| 9 | [[inbox/2026-10-15-pubmed-42875003|Zfp697/ZNF697 is an RNA-binding protein that modulates TGF-β1 signaling and hepatic inflammation in liver disease.]] | PubMed | 01_RNA Biology |
 | 8 | [[inbox/2026-10-15-pubmed-42870191|LLM4PDA: Augmenting piRNA-Disease Association Prediction with Large Language Models.]] | PubMed | 03_RNA Structure Prediction |
+| 7 | [[inbox/2026-10-15-pubmed-42876811|G3BP1 reduction during cellular senescence promotes SVIL expression and selected senescence-associated phenotypes.]] | PubMed | 01_RNA Biology |
 | 7 | [[inbox/2026-10-15-pubmed-42869395|hnRNPU regulates the sorting of exo-miR-125a-5p in colon epithelial cells and its role in realgar-induced central nervous system toxicity.]] | PubMed | 01_RNA Biology |
+| 6 | [[inbox/2026-10-15-pubmed-42874467|HelD is a global transcription factor enhancing gene expression in rapidly growing mycobacteria.]] | PubMed | 02_RNA Structure |
 | 4 | [[inbox/2026-10-15-pubmed-42867871|Aromatic ring overlap affects excited-state properties of stacked nucleobases.]] | PubMed | 01_RNA Biology |
 | 4 | [[inbox/2026-10-15-pubmed-42872486|CRISPR-HAWK: Haplotype- and Variant-Aware Guide Design Toolkit for CRISPR-Cas.]] | PubMed | 05_RNA Sequence Design |
 | 4 | [[inbox/2026-10-15-pubmed-42872978|Drosophila Orb2 contributes to neural stem cell centrosome asymmetry and cell growth.]] | PubMed | 01_RNA Biology |
 | 4 | [[inbox/2026-10-15-pubmed-42871744|Scp160 deletion suppresses TDP-43 aggregation and toxicity in Saccharomyces cerevisiae.]] | PubMed | 02_RNA Structure |
+| 4 | [[inbox/2026-10-15-arxiv-2610.20277|TANGO: RNA Topology and Geometry Co-Design]] | arXiv | 05_RNA Sequence Design |
+| 4 | [[inbox/2026-10-15-pubmed-42875876|Targeting Cannabinoid 1 Receptor in Macrophages Alleviates Psoriatic Skin Inflammation Through the AUF1-NLRP3 Axis.]] | PubMed | 01_RNA Biology |
 
 ## 2026-10-14（5 篇）
 

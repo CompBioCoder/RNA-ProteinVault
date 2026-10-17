@@ -1,12 +1,24 @@
 ---
 title: RNA × Protein 文献雷达
 publish: true
-date: 2026-10-15
+date: 2026-10-17
 ---
 
 每天自动抓取 arXiv / bioRxiv / PubMed，关键词打分后只留最相关的几篇。⭐ = 已标为必读。
 
 → [[starred|必读清单]] · [[topics|分类总览]]
+
+## 2026-10-17（7 篇）
+
+| 分 | 论文 | 来源 | 分类 |
+|:-:|---|---|---|
+| 12 | [[inbox/2026-10-17-pubmed-42880215|AI empowers scalable and programmable RNA design.]] | PubMed | 05_RNA Sequence Design |
+| 8 | [[inbox/2026-10-17-pubmed-42884795|WHIRLY1 Interactome Profiling Reveals the Chloroplast Fate Correlation with Stromule-like Morphologies in Arabidopsis Leaves Under Dark and DBMIB Stress Conditions.]] | PubMed | 02_RNA Structure |
+| 5 | [[inbox/2026-10-17-pubmed-42879533|Atomic functional site scaffolding in biopolymers with RFdiffusion3.]] | PubMed | 07_Protein Design |
+| 4 | [[inbox/2026-10-17-biorxiv-2024.11.18.624098|Analysis of ribosomes from the Wild-type and FMR1 knockout human embryonic stem cells]] | bioRxiv | 02_RNA Structure |
+| 4 | [[inbox/2026-10-17-pubmed-42880217|Beyond prediction: The evolving role of artificial intelligence in genome editing.]] | PubMed | 00_Reviews |
+| 4 | [[inbox/2026-10-17-biorxiv-2025.11.02.686099|Calibrated analysis framework for nanopore direct RNA sequencing uncovers cell-specific m6A proportions at conserved sites]] | bioRxiv | 09_Datasets & Databases |
+| 4 | [[inbox/2026-10-17-pubmed-42886803|Peripheral nerve injury alters metabolic function and neuronal excitability through the Lin28/let-7 pathway.]] | PubMed | 01_RNA Biology |
 
 ## 2026-10-15（13 篇）
 
@@ -78,28 +90,3 @@ date: 2026-10-15
 | 4 | [[inbox/2026-10-10-pubmed-42849668|Crystal structure of the SLF1 tandem BRCT domains in complex with a RPB2-derived peptide.]] | PubMed | 02_RNA Structure |
 | 4 | [[inbox/2026-10-10-pubmed-42853422|Multiple motor proteins regulate TDP-43 anterograde axonal transport.]] | PubMed | 01_RNA Biology |
 | 4 | [[inbox/2026-10-10-pubmed-42849610|Recurrent catalytic-site change and electrostatic remodeling across the HEPN ribonuclease fold.]] | PubMed | 03_RNA Structure Prediction |
-
-## 2026-10-09（8 篇）
-
-| 分 | 论文 | 来源 | 分类 |
-|:-:|---|---|---|
-| 13 | [[inbox/2026-10-09-pubmed-42847460|PNBind: Prediction of Nucleic Acid-Binding Sites Using Protein Structure and Protein Language Models.]] | PubMed | 06_Protein Prediction |
-| 11 | [[inbox/2026-10-09-pubmed-42845463|Single-base substitutions switch RNA tertiary allostery between positive and negative coupling.]] | PubMed | 05_RNA Sequence Design |
-| 5 | [[inbox/2026-10-09-pubmed-42845453|Deletion of the gene for a cyanobacterial ribosome-associated protein affects the carbon/nitrogen metabolism.]] | PubMed | 02_RNA Structure |
-| 4 | [[inbox/2026-10-09-pubmed-42845225|E2F1-Activated lncRNA FTX Promotes Asthma Progression via Regulating the SRSF1/RBPJ Axis.]] | PubMed | 01_RNA Biology |
-| 4 | [[inbox/2026-10-09-pubmed-42848549|InterActRNA: A Co-Evolutionary Geometric Deep Learning Framework for RNA-Small Molecule Binding Affinity Prediction.]] | PubMed | 02_RNA Structure |
-| 4 | [[inbox/2026-10-09-pubmed-42845543|Reimagining productive chemical space for RNA recognition beyond aromaticity.]] | PubMed | 05_RNA Sequence Design |
-| 4 | [[inbox/2026-10-09-pubmed-42844403|ZC3H14 phosphorylation is required for nuclear speckle assembly during zygotic splicing activation in mice.]] | PubMed | 01_RNA Biology |
-| 4 | [[inbox/2026-10-09-pubmed-42845007|ZmDLR9 is required for lateral root development via pre-rRNA processing in maize.]] | PubMed | 02_RNA Structure |
-
-## 2026-10-08（7 篇）
-
-| 分 | 论文 | 来源 | 分类 |
-|:-:|---|---|---|
-| 8 | [[inbox/2026-10-08-pubmed-42840230|Bidirectional photoriboswitch for translational regulation in mammalian cells.]] | PubMed | 01_RNA Biology |
-| 8 | [[inbox/2026-10-08-pubmed-42840544|Bioactive compounds from Tetradenia riparia and Tetracera poggei: antioxidant activity, UPLC-QTOF-MS phytochemical profiling, and in silico targeting of the RNA-binding protein DRBD18 of Trypanosoma brucei.]] | PubMed | 03_RNA Structure Prediction |
-| 8 | [[inbox/2026-10-08-pubmed-42840727|Dysregulated mRNA Translation in Alzheimer's Disease: Mechanisms, Therapeutic Opportunities, and Challenges for Clinical Translation.]] | PubMed | 00_Reviews |
-| 4 | [[inbox/2026-10-08-pubmed-42840375|Engineering TnpB as a compact RNA-guided genome editor from molecular constraints to design principles.]] | PubMed | 00_Reviews |
-| 4 | [[inbox/2026-10-08-pubmed-42842404|MATRIN3 deficiency in human cells triggers an autoinflammatory response via cGAS-STING activation.]] | PubMed | 01_RNA Biology |
-| 4 | [[inbox/2026-10-08-pubmed-42842368|ZNF121 recruits YTHDF2 to modulate mRNA stability.]] | PubMed | 01_RNA Biology |
-| 4 | [[inbox/2026-10-08-pubmed-42840684|hnRNPs in immunity: from nucleic acid sensing to lymphocyte fate determination.]] | PubMed | 00_Reviews |

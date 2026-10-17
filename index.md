@@ -8,11 +8,13 @@ date: 2026-10-17
 
 → [[starred|必读清单]] · [[topics|分类总览]]
 
-## 2026-10-17（7 篇）
+## 2026-10-17（9 篇）
 
 | 分 | 论文 | 来源 | 分类 |
 |:-:|---|---|---|
+| 24 | [[inbox/2026-10-17-pubmed-42888044|RNA-Protein Reciprocity and the Limits of RBP Buffering.]] | PubMed | 00_Reviews |
 | 12 | [[inbox/2026-10-17-pubmed-42880215|AI empowers scalable and programmable RNA design.]] | PubMed | 05_RNA Sequence Design |
+| 11 | [[inbox/2026-10-17-pubmed-42887954|Mechanisms and applications of condensed RNA-based molecular crowding on enhancing RNA aptamer performance.]] | PubMed | 05_RNA Sequence Design |
 | 8 | [[inbox/2026-10-17-pubmed-42884795|WHIRLY1 Interactome Profiling Reveals the Chloroplast Fate Correlation with Stromule-like Morphologies in Arabidopsis Leaves Under Dark and DBMIB Stress Conditions.]] | PubMed | 02_RNA Structure |
 | 5 | [[inbox/2026-10-17-pubmed-42879533|Atomic functional site scaffolding in biopolymers with RFdiffusion3.]] | PubMed | 07_Protein Design |
 | 4 | [[inbox/2026-10-17-biorxiv-2024.11.18.624098|Analysis of ribosomes from the Wild-type and FMR1 knockout human embryonic stem cells]] | bioRxiv | 02_RNA Structure |

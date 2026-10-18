@@ -1,12 +1,20 @@
 ---
 title: RNA × Protein 文献雷达
 publish: true
-date: 2026-10-17
+date: 2026-10-18
 ---
 
 每天自动抓取 arXiv / bioRxiv / PubMed，关键词打分后只留最相关的几篇。⭐ = 已标为必读。
 
 → [[starred|必读清单]] · [[topics|分类总览]]
+
+## 2026-10-18（3 篇）
+
+| 分 | 论文 | 来源 | 分类 |
+|:-:|---|---|---|
+| 9 | [[inbox/2026-10-18-pubmed-42889876|OOPSIE (OOPS informatics extension).]] | PubMed | 09_Datasets & Databases |
+| 7 | [[inbox/2026-10-18-pubmed-42892517|Cryo-EM advances in TDP-43 amyloid fibrils structure determination.]] | PubMed | 00_Reviews |
+| 4 | [[inbox/2026-10-18-pubmed-42891760|Engineering a Synthetic Fluorogenic RNA Switch for Oxidized Guanine.]] | PubMed | 05_RNA Sequence Design |
 
 ## 2026-10-17（9 篇）
 
@@ -81,14 +89,3 @@ date: 2026-10-17
 | 8 | [[inbox/2026-10-11-pubmed-42855471|RUNX1 aberrations in blast-phase chronic myeloid leukaemia induce the RNA-binding protein SPATS2L, which promotes growth, survival and stress granule assembly.]] | PubMed | 02_RNA Structure |
 | 4 | [[inbox/2026-10-11-pubmed-42854470|Identification of Tex and the Phage Shock Protein YthA as putative FtsH substrates associated with the cell envelope stress response in Lactococcus cremoris.]] | PubMed | 01_RNA Biology |
 | 4 | [[inbox/2026-10-11-pubmed-42854689|Oligo(uridine) tailing and exonucleolytic decay drive 40S ribosome degradation in response to stress.]] | PubMed | 02_RNA Structure |
-
-## 2026-10-10（6 篇）
-
-| 分 | 论文 | 来源 | 分类 |
-|:-:|---|---|---|
-| 14 | [[inbox/2026-10-10-pubmed-42852407|Structural basis for Mg²⁺-glycine synergy in the tandem glycine riboswitch revealed by cryo-EM.]] | PubMed | 05_RNA Sequence Design |
-| 8 | [[inbox/2026-10-10-arxiv-2610.12236|La-Ribo: RNA Co-Design via Geometry-Latent Flow Matching]] | arXiv | 05_RNA Sequence Design |
-| 6 | [[inbox/2026-10-10-pubmed-42850251|Interpretable machine learning enables de novo mapping of cell type-specific RNA splicing regulation from scRNA-seq data.]] | PubMed | 07_Protein Design |
-| 4 | [[inbox/2026-10-10-pubmed-42849668|Crystal structure of the SLF1 tandem BRCT domains in complex with a RPB2-derived peptide.]] | PubMed | 02_RNA Structure |
-| 4 | [[inbox/2026-10-10-pubmed-42853422|Multiple motor proteins regulate TDP-43 anterograde axonal transport.]] | PubMed | 01_RNA Biology |
-| 4 | [[inbox/2026-10-10-pubmed-42849610|Recurrent catalytic-site change and electrostatic remodeling across the HEPN ribonuclease fold.]] | PubMed | 03_RNA Structure Prediction |

@@ -1,12 +1,20 @@
 ---
 title: RNA × Protein 文献雷达
 publish: true
-date: 2026-10-18
+date: 2026-10-20
 ---
 
 每天自动抓取 arXiv / bioRxiv / PubMed，关键词打分后只留最相关的几篇。⭐ = 已标为必读。
 
 → [[starred|必读清单]] · [[topics|分类总览]]
+
+## 2026-10-20（3 篇）
+
+| 分 | 论文 | 来源 | 分类 |
+|:-:|---|---|---|
+| 17 | [[inbox/2026-10-20-pubmed-42894967|RNAffinityDB: a curated database of experimental RNA-protein binding affinities.]] | PubMed | 03_RNA Structure Prediction |
+| 15 | [[inbox/2026-10-20-pubmed-42894639|OGT regulates RNA-binding protein nucleocytoplasmic partitioning, but this fails in amyotrophic lateral sclerosis.]] | PubMed | 01_RNA Biology |
+| 5 | [[inbox/2026-10-20-pubmed-42895079|Correction: Cold-inducible RNA-binding protein (CIRBP) adjusts clock-gene expression and REM-sleep recovery following sleep deprivation.]] | PubMed | 01_RNA Biology |
 
 ## 2026-10-18（3 篇）
 
@@ -70,22 +78,3 @@ date: 2026-10-18
 | 7 | [[inbox/2026-10-13-pubmed-42862241|In Vitro Assay of Bacterial RNA Helicases Liquid-Liquid Phase Separation.]] | PubMed | 02_RNA Structure |
 | 6 | [[inbox/2026-10-13-pubmed-42862227|Using Cross-Linking and ImmunoPrecipitation (CLIP) to Identify Targets and Specificity Determinants of the YTHDC2 Helicase.]] | PubMed | 01_RNA Biology |
 | 5 | [[inbox/2026-10-13-pubmed-42862238|Native Liquid MALDI (NALIM) Mass Spectrometry Analysis of RNA-Binding Protein Complexes.]] | PubMed | 01_RNA Biology |
-
-## 2026-10-12（6 篇）
-
-| 分 | 论文 | 来源 | 分类 |
-|:-:|---|---|---|
-| 25 | [[inbox/2026-10-12-pubmed-42856293|RNASeek: A Cross-Phyla Generative Foundation Model for Multipurpose RNA Modeling and Reinforcement Learning-Based Design.]] | PubMed | 05_RNA Sequence Design |
-| 15 | [[inbox/2026-10-12-pubmed-42859746|The CCT chaperonin is a context-dependent regulator of RNA-binding protein phase transitions.]] | PubMed | 01_RNA Biology |
-| 10 | [[inbox/2026-10-12-pubmed-42858780|Partial convergence of alternative polyadenylation changes across ALS-Associated RNA-Binding proteins.]] | PubMed | 09_Datasets & Databases |
-| 9 | [[inbox/2026-10-12-biorxiv-2026.10.07.757386|A transient third metal ion shapes the catalytic cycle of a group I intron ribozyme]] | bioRxiv | 02_RNA Structure |
-| 9 | [[inbox/2026-10-12-pubmed-42856379|Domains of RNA-binding protein Ssd1 required for tolerating chromosome amplification in yeast.]] | PubMed | 03_RNA Structure Prediction |
-| 7 | [[inbox/2026-10-12-pubmed-42856099|RNA Organelles in DNA-Based Artificial Cells Provide Spatial Aptamer Functions and Enhanced Signal Processing.]] | PubMed | 05_RNA Sequence Design |
-
-## 2026-10-11（3 篇）
-
-| 分 | 论文 | 来源 | 分类 |
-|:-:|---|---|---|
-| 8 | [[inbox/2026-10-11-pubmed-42855471|RUNX1 aberrations in blast-phase chronic myeloid leukaemia induce the RNA-binding protein SPATS2L, which promotes growth, survival and stress granule assembly.]] | PubMed | 02_RNA Structure |
-| 4 | [[inbox/2026-10-11-pubmed-42854470|Identification of Tex and the Phage Shock Protein YthA as putative FtsH substrates associated with the cell envelope stress response in Lactococcus cremoris.]] | PubMed | 01_RNA Biology |
-| 4 | [[inbox/2026-10-11-pubmed-42854689|Oligo(uridine) tailing and exonucleolytic decay drive 40S ribosome degradation in response to stress.]] | PubMed | 02_RNA Structure |

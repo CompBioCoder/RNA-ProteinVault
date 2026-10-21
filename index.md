@@ -1,12 +1,21 @@
 ---
 title: RNA × Protein 文献雷达
 publish: true
-date: 2026-10-20
+date: 2026-10-21
 ---
 
 每天自动抓取 arXiv / bioRxiv / PubMed，关键词打分后只留最相关的几篇。⭐ = 已标为必读。
 
 → [[starred|必读清单]] · [[topics|分类总览]]
+
+## 2026-10-21（4 篇）
+
+| 分 | 论文 | 来源 | 分类 |
+|:-:|---|---|---|
+| 5 | [[inbox/2026-10-21-pubmed-42900726|Molecular basis for discrimination of cGAMP linkage isomers by a c-di-GMP-II riboswitch variant.]] | PubMed | 05_RNA Sequence Design |
+| 4 | [[inbox/2026-10-21-pubmed-42898100|Box C/D SNORD116-17 promotes prostate cancer progression by targeting the miR-206/E2F5 axis.]] | PubMed | 01_RNA Biology |
+| 4 | [[inbox/2026-10-21-pubmed-42898134|From delivery to integration: CRISPR-mediated large insert gene editing in primary human T cells.]] | PubMed | 00_Reviews |
+| 4 | [[inbox/2026-10-21-biorxiv-2026.10.12.758266|RiboGRAM learns multi-scale non-coding RNA grammar for structural and regulatory inference]] | bioRxiv | 02_RNA Structure |
 
 ## 2026-10-20（3 篇）
 
@@ -65,16 +74,3 @@ date: 2026-10-20
 | 13 | [[inbox/2026-10-14-pubmed-42864337|RAISE quantifies RNA binding protein activity via transcriptomic profiling.]] | PubMed | 02_RNA Structure |
 | 5 | [[inbox/2026-10-14-pubmed-42866468|The Water-Soluble [60]Fullerene Derivatives as Binders of SARS-CoV‑2 Proteins.]] | PubMed | 07_Protein Design |
 | 4 | [[inbox/2026-10-14-pubmed-42865010|Heat-Shock and Cold-Shock Proteins in Energy-Based Aesthetic Medicine.]] | PubMed | 00_Reviews |
-
-## 2026-10-13（8 篇）
-
-| 分 | 论文 | 来源 | 分类 |
-|:-:|---|---|---|
-| 19 | [[inbox/2026-10-13-pubmed-42862230|Identification of Host Interaction Partners of the Hepatitis E Virus Internal Ribosome Entry Site-Like RNA Using RNA-Protein Interaction Detection Assay and Yeast Three-Hybrid Assay.]] | PubMed | 03_RNA Structure Prediction |
-| 15 | [[inbox/2026-10-13-pubmed-42862223|Predicting RNA and Protein:RNA Complexes with AlphaFold: Possibilities, Limitations, and Practical Guidelines.]] | PubMed | 00_Reviews |
-| 11 | [[inbox/2026-10-13-pubmed-42862226|A Workflow for Identifying Helicase-Dependent RNA Structural Changes in Transcriptional Termination: From DMS Sequencing Analysis to Reporter Assay-Based Validation.]] | PubMed | 03_RNA Structure Prediction |
-| 11 | [[inbox/2026-10-13-pubmed-42862232|In Vitro RNA-Protein Binding Assays to Identify RNA Helicases for U snRNA Nuclear Export.]] | PubMed | 01_RNA Biology |
-| 9 | [[inbox/2026-10-13-pubmed-42862233|Quantifying Label-Free Protein-RNA Binding Using Microscale Thermophoresis.]] | PubMed | 01_RNA Biology |
-| 7 | [[inbox/2026-10-13-pubmed-42862241|In Vitro Assay of Bacterial RNA Helicases Liquid-Liquid Phase Separation.]] | PubMed | 02_RNA Structure |
-| 6 | [[inbox/2026-10-13-pubmed-42862227|Using Cross-Linking and ImmunoPrecipitation (CLIP) to Identify Targets and Specificity Determinants of the YTHDC2 Helicase.]] | PubMed | 01_RNA Biology |
-| 5 | [[inbox/2026-10-13-pubmed-42862238|Native Liquid MALDI (NALIM) Mass Spectrometry Analysis of RNA-Binding Protein Complexes.]] | PubMed | 01_RNA Biology |

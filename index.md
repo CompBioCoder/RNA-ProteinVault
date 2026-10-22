@@ -1,7 +1,7 @@
 ---
 title: RNA × Protein 文献雷达
 publish: true
-date: 2026-10-21
+date: 2026-10-22
 ---
 
 每天自动抓取 arXiv / bioRxiv / PubMed，关键词打分后只留最相关的几篇。⭐ = 已标为必读。
@@ -64,13 +64,3 @@ date: 2026-10-21
 | 4 | [[inbox/2026-10-15-pubmed-42871744|Scp160 deletion suppresses TDP-43 aggregation and toxicity in Saccharomyces cerevisiae.]] | PubMed | 02_RNA Structure |
 | 4 | [[inbox/2026-10-15-arxiv-2610.20277|TANGO: RNA Topology and Geometry Co-Design]] | arXiv | 05_RNA Sequence Design |
 | 4 | [[inbox/2026-10-15-pubmed-42875876|Targeting Cannabinoid 1 Receptor in Macrophages Alleviates Psoriatic Skin Inflammation Through the AUF1-NLRP3 Axis.]] | PubMed | 01_RNA Biology |
-
-## 2026-10-14（5 篇）
-
-| 分 | 论文 | 来源 | 分类 |
-|:-:|---|---|---|
-| 17 | [[inbox/2026-10-14-pubmed-42864907|Artificial intelligence (AI)-enabled RNA therapeutic design: from molecular optimization to system-level evaluation.]] | PubMed | 00_Reviews |
-| 13 | [[inbox/2026-10-14-pubmed-42863841|Development of CRISPR/Cas13-based analytical tools to study RNA-protein interactions.]] | PubMed | 01_RNA Biology |
-| 13 | [[inbox/2026-10-14-pubmed-42864337|RAISE quantifies RNA binding protein activity via transcriptomic profiling.]] | PubMed | 02_RNA Structure |
-| 5 | [[inbox/2026-10-14-pubmed-42866468|The Water-Soluble [60]Fullerene Derivatives as Binders of SARS-CoV‑2 Proteins.]] | PubMed | 07_Protein Design |
-| 4 | [[inbox/2026-10-14-pubmed-42865010|Heat-Shock and Cold-Shock Proteins in Energy-Based Aesthetic Medicine.]] | PubMed | 00_Reviews |

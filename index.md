@@ -1,12 +1,25 @@
 ---
 title: RNA × Protein 文献雷达
 publish: true
-date: 2026-10-23
+date: 2026-10-24
 ---
 
 每天自动抓取 arXiv / bioRxiv / PubMed，关键词打分后只留最相关的几篇。⭐ = 已标为必读。
 
 → [[starred|必读清单]] · [[topics|分类总览]]
+
+## 2026-10-24（8 篇）
+
+| 分 | 论文 | 来源 | 分类 |
+|:-:|---|---|---|
+| 25 | [[inbox/2026-10-24-pubmed-42906042|MultiRSF: A Deep Learning Approach for Predicting RNA-Small-Molecule Binding Sites Using Surface Characteristics.]] | PubMed | 05_RNA Sequence Design |
+| 13 | [[inbox/2026-10-24-pubmed-42906068|APDB: A Large-Scale Repository of Predicted 2D and 3D Aptamer Structures.]] | PubMed | 05_RNA Sequence Design |
+| 11 | [[inbox/2026-10-24-pubmed-42906549|Phase separation of Rbpms sequesters translation elongation machinery to preserve hematopoietic stem cell function.]] | PubMed | 03_RNA Structure Prediction |
+| 11 | [[inbox/2026-10-24-pubmed-42908869|RLAgent: retrieval-augmented LLM agents for code-free RNA region-ligand interaction modeling.]] | PubMed | 00_Reviews |
+| 10 | [[inbox/2026-10-24-pubmed-42906689|Recurring RNA motifs: from A-minor to ribose zipper.]] | PubMed | 05_RNA Sequence Design |
+| 10 | [[inbox/2026-10-24-pubmed-42911494|Visualization of RNA Structures and Functional Annotations Using ArcPlot.]] | PubMed | 03_RNA Structure Prediction |
+| 8 | [[inbox/2026-10-24-pubmed-42911492|Capture and Purification of Endogenous Long Noncoding Ribonucleic Protein Complexes for Protein Identification Using Grad-MS.]] | PubMed | 01_RNA Biology |
+| 8 | [[inbox/2026-10-24-pubmed-42910884|Deciphering the Molecular Basis of Poly(A)-Binding Protein Selectivity for Homopolymeric RNAs.]] | PubMed | 01_RNA Biology |
 
 ## 2026-10-23（7 篇）
 

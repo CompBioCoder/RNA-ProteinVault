@@ -1,12 +1,25 @@
 ---
 title: RNA × Protein 文献雷达
 publish: true
-date: 2026-10-24
+date: 2026-10-25
 ---
 
 每天自动抓取 arXiv / bioRxiv / PubMed，关键词打分后只留最相关的几篇。⭐ = 已标为必读。
 
 → [[starred|必读清单]] · [[topics|分类总览]]
+
+## 2026-10-25（8 篇）
+
+| 分 | 论文 | 来源 | 分类 |
+|:-:|---|---|---|
+| 18 | [[inbox/2026-10-25-pubmed-42921301|N6-Methyladenosine RNA Modifications Influence the Stability of FUS-Dependent Biological Condensate Formation.]] | PubMed | 03_RNA Structure Prediction |
+| 13 | [[inbox/2026-10-25-pubmed-42922160|RNA-binding proteins in spermatogenesis: functional mechanisms, clinical potential, and future perspectives.]] | PubMed | 00_Reviews |
+| 10 | [[inbox/2026-10-25-pubmed-42922627|Ablation of a maternal Cryptosporidium mRNA-binding protein results in sterile sporozoites.]] | PubMed | 02_RNA Structure |
+| 10 | [[inbox/2026-10-25-pubmed-42926732|Pumilio proteins license viral noncoding RNA engagement with target mRNAs.]] | PubMed | 01_RNA Biology |
+| 10 | [[inbox/2026-10-25-pubmed-42922532|Structures of pUG-fold RNA bound to DNMT1 reveal a mechanism for RNA-mediated epigenetic regulation.]] | PubMed | 03_RNA Structure Prediction |
+| 9 | [[inbox/2026-10-25-pubmed-42926605|The RNA-binding protein TRIM71 Promotes Supporting Cell Reprogramming and Hair Cell Regeneration by Activating Sall4.]] | PubMed | 01_RNA Biology |
+| 7 | [[inbox/2026-10-25-pubmed-42922650|Viscoelasticity and Interface Properties of Multi-Component Condensates Govern Protein Sequestration and Suppression of Amyloid Formation.]] | PubMed | 03_RNA Structure Prediction |
+| 6 | [[inbox/2026-10-25-pubmed-42924586|Liquid‑liquid phase separation and post‑transcriptional regulation intersection: A new paradigm of RNA‑binding protein condensates in hepatocellular carcinoma malignant phenotypes (Review).]] | PubMed | 00_Reviews |
 
 ## 2026-10-24（16 篇）
 
@@ -65,17 +78,3 @@ date: 2026-10-24
 | 9 | [[inbox/2026-10-18-pubmed-42889876|OOPSIE (OOPS informatics extension).]] | PubMed | 09_Datasets & Databases |
 | 7 | [[inbox/2026-10-18-pubmed-42892517|Cryo-EM advances in TDP-43 amyloid fibrils structure determination.]] | PubMed | 00_Reviews |
 | 4 | [[inbox/2026-10-18-pubmed-42891760|Engineering a Synthetic Fluorogenic RNA Switch for Oxidized Guanine.]] | PubMed | 05_RNA Sequence Design |
-
-## 2026-10-17（9 篇）
-
-| 分 | 论文 | 来源 | 分类 |
-|:-:|---|---|---|
-| 24 | [[inbox/2026-10-17-pubmed-42888044|RNA-Protein Reciprocity and the Limits of RBP Buffering.]] | PubMed | 00_Reviews |
-| 12 | [[inbox/2026-10-17-pubmed-42880215|AI empowers scalable and programmable RNA design.]] | PubMed | 05_RNA Sequence Design |
-| 11 | [[inbox/2026-10-17-pubmed-42887954|Mechanisms and applications of condensed RNA-based molecular crowding on enhancing RNA aptamer performance.]] | PubMed | 05_RNA Sequence Design |
-| 8 | [[inbox/2026-10-17-pubmed-42884795|WHIRLY1 Interactome Profiling Reveals the Chloroplast Fate Correlation with Stromule-like Morphologies in Arabidopsis Leaves Under Dark and DBMIB Stress Conditions.]] | PubMed | 02_RNA Structure |
-| 5 | [[inbox/2026-10-17-pubmed-42879533|Atomic functional site scaffolding in biopolymers with RFdiffusion3.]] | PubMed | 07_Protein Design |
-| 4 | [[inbox/2026-10-17-biorxiv-2024.11.18.624098|Analysis of ribosomes from the Wild-type and FMR1 knockout human embryonic stem cells]] | bioRxiv | 02_RNA Structure |
-| 4 | [[inbox/2026-10-17-pubmed-42880217|Beyond prediction: The evolving role of artificial intelligence in genome editing.]] | PubMed | 00_Reviews |
-| 4 | [[inbox/2026-10-17-biorxiv-2025.11.02.686099|Calibrated analysis framework for nanopore direct RNA sequencing uncovers cell-specific m6A proportions at conserved sites]] | bioRxiv | 09_Datasets & Databases |
-| 4 | [[inbox/2026-10-17-pubmed-42886803|Peripheral nerve injury alters metabolic function and neuronal excitability through the Lin28/let-7 pathway.]] | PubMed | 01_RNA Biology |

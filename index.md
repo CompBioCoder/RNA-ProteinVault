@@ -1,12 +1,21 @@
 ---
 title: RNA × Protein 文献雷达
 publish: true
-date: 2026-10-25
+date: 2026-10-27
 ---
 
 每天自动抓取 arXiv / bioRxiv / PubMed，关键词打分后只留最相关的几篇。⭐ = 已标为必读。
 
 → [[starred|必读清单]] · [[topics|分类总览]]
+
+## 2026-10-27（4 篇）
+
+| 分 | 论文 | 来源 | 分类 |
+|:-:|---|---|---|
+| 16 | [[inbox/2026-10-27-pubmed-42929196|SMARTFlexDB: a paired apo-holo RNA structure database and analysis platform for RNA conformational flexibility and small-molecule recognition.]] | PubMed | 02_RNA Structure |
+| 11 | [[inbox/2026-10-27-pubmed-42931114|From Binding Sites to Target Genes: Reframing Human microRNA Target Prediction.]] | PubMed | 09_Datasets & Databases |
+| 5 | [[inbox/2026-10-27-pubmed-42929764|Ernie-Switcher: RNA foundation model-guided design of programmable RNA devices in a navigable landscape.]] | PubMed | 03_RNA Structure Prediction |
+| 4 | [[inbox/2026-10-27-pubmed-42930554|Epigenetic Viral Mimicry in Neuroinflammation: Retrotransposons, cGAS-STING and Microglial Hysteresis.]] | PubMed | 01_RNA Biology |
 
 ## 2026-10-25（8 篇）
 
@@ -70,11 +79,3 @@ date: 2026-10-25
 | 17 | [[inbox/2026-10-20-pubmed-42894967|RNAffinityDB: a curated database of experimental RNA-protein binding affinities.]] | PubMed | 03_RNA Structure Prediction |
 | 15 | [[inbox/2026-10-20-pubmed-42894639|OGT regulates RNA-binding protein nucleocytoplasmic partitioning, but this fails in amyotrophic lateral sclerosis.]] | PubMed | 01_RNA Biology |
 | 5 | [[inbox/2026-10-20-pubmed-42895079|Correction: Cold-inducible RNA-binding protein (CIRBP) adjusts clock-gene expression and REM-sleep recovery following sleep deprivation.]] | PubMed | 01_RNA Biology |
-
-## 2026-10-18（3 篇）
-
-| 分 | 论文 | 来源 | 分类 |
-|:-:|---|---|---|
-| 9 | [[inbox/2026-10-18-pubmed-42889876|OOPSIE (OOPS informatics extension).]] | PubMed | 09_Datasets & Databases |
-| 7 | [[inbox/2026-10-18-pubmed-42892517|Cryo-EM advances in TDP-43 amyloid fibrils structure determination.]] | PubMed | 00_Reviews |
-| 4 | [[inbox/2026-10-18-pubmed-42891760|Engineering a Synthetic Fluorogenic RNA Switch for Oxidized Guanine.]] | PubMed | 05_RNA Sequence Design |

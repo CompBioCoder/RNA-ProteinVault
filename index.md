@@ -1,12 +1,24 @@
 ---
 title: RNA × Protein 文献雷达
 publish: true
-date: 2026-10-27
+date: 2026-10-28
 ---
 
 每天自动抓取 arXiv / bioRxiv / PubMed，关键词打分后只留最相关的几篇。⭐ = 已标为必读。
 
 → [[starred|必读清单]] · [[topics|分类总览]]
+
+## 2026-10-28（7 篇）
+
+| 分 | 论文 | 来源 | 分类 |
+|:-:|---|---|---|
+| 14 | [[inbox/2026-10-28-pubmed-42938304|Identification of RNA-Binding Proteins Regulating the Alternative Splicing of TREM2 Exon 4.]] | PubMed | 01_RNA Biology |
+| 10 | [[inbox/2026-10-28-pubmed-42943678|CRISPR/Cas12a-Based Aptasensor for Cas9 Protein Detection in Spiked Food Matrices.]] | PubMed | 05_RNA Sequence Design |
+| 9 | [[inbox/2026-10-28-pubmed-42941968|RNA-Protein Dynamics of the Segmentation Clock and Its Implications in Developmental Disorders.]] | PubMed | 01_RNA Biology |
+| 6 | [[inbox/2026-10-28-pubmed-42941908|Co-Regulation Analysis of Domain-Specific Phosphosites Reveals Insights into the Phosphoregulation-Directed Functional Diversity of Nucleolin.]] | PubMed | 02_RNA Structure |
+| 6 | [[inbox/2026-10-28-pubmed-42942219|How Strong Is the Case for the RNA World?]] | PubMed | 00_Reviews |
+| 5 | [[inbox/2026-10-28-pubmed-42941877|Analysis of Ligation Activity in Miniaturized L1 Ligase Ribozyme Variants Down to 49 nt and in Split Ribozyme Forms.]] | PubMed | 03_RNA Structure Prediction |
+| 5 | [[inbox/2026-10-28-pubmed-42939789|Structure-Function Relationships of Cid1 Poly(U) Polymerase: Catalysis, Substrate Recognition, Engineering, and Applications.]] | PubMed | 00_Reviews |
 
 ## 2026-10-27（4 篇）
 
@@ -71,11 +83,3 @@ date: 2026-10-27
 | 4 | [[inbox/2026-10-21-pubmed-42898100|Box C/D SNORD116-17 promotes prostate cancer progression by targeting the miR-206/E2F5 axis.]] | PubMed | 01_RNA Biology |
 | 4 | [[inbox/2026-10-21-pubmed-42898134|From delivery to integration: CRISPR-mediated large insert gene editing in primary human T cells.]] | PubMed | 00_Reviews |
 | 4 | [[inbox/2026-10-21-biorxiv-2026.10.12.758266|RiboGRAM learns multi-scale non-coding RNA grammar for structural and regulatory inference]] | bioRxiv | 02_RNA Structure |
-
-## 2026-10-20（3 篇）
-
-| 分 | 论文 | 来源 | 分类 |
-|:-:|---|---|---|
-| 17 | [[inbox/2026-10-20-pubmed-42894967|RNAffinityDB: a curated database of experimental RNA-protein binding affinities.]] | PubMed | 03_RNA Structure Prediction |
-| 15 | [[inbox/2026-10-20-pubmed-42894639|OGT regulates RNA-binding protein nucleocytoplasmic partitioning, but this fails in amyotrophic lateral sclerosis.]] | PubMed | 01_RNA Biology |
-| 5 | [[inbox/2026-10-20-pubmed-42895079|Correction: Cold-inducible RNA-binding protein (CIRBP) adjusts clock-gene expression and REM-sleep recovery following sleep deprivation.]] | PubMed | 01_RNA Biology |

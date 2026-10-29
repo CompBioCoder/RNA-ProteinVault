@@ -1,12 +1,22 @@
 ---
 title: RNA × Protein 文献雷达
 publish: true
-date: 2026-10-28
+date: 2026-10-29
 ---
 
 每天自动抓取 arXiv / bioRxiv / PubMed，关键词打分后只留最相关的几篇。⭐ = 已标为必读。
 
 → [[starred|必读清单]] · [[topics|分类总览]]
+
+## 2026-10-29（5 篇）
+
+| 分 | 论文 | 来源 | 分类 |
+|:-:|---|---|---|
+| 15 | [[inbox/2026-10-29-pubmed-42946500|Contribution of disordered regions of the essential protein GEMIN5 to RNA binding.]] | PubMed | 03_RNA Structure Prediction |
+| 10 | [[inbox/2026-10-29-pubmed-42949066|Acute Loss of TrkB Signaling Impairs the Survival of Mature Retinal Ganglion Cells and Retinal Function.]] | PubMed | 01_RNA Biology |
+| 10 | [[inbox/2026-10-29-pubmed-42945840|Characterization of avian LEAP2 transcripts with alternative polyadenylation and their 3'UTR stability.]] | PubMed | 01_RNA Biology |
+| 7 | [[inbox/2026-10-29-pubmed-42947477|RNA-Binding Protein NOVA1 Restrains Immune Escape and Liver Metastasis in Colorectal Cancer via Stabilizing NRXN1 mRNA.]] | PubMed | 03_RNA Structure Prediction |
+| 5 | [[inbox/2026-10-29-pubmed-42945824|G3BP1-associated post-transcriptional regulation of MUC16 under hyperosmotic stress contributes to corneal epithelial barrier dysfunction.]] | PubMed | 01_RNA Biology |
 
 ## 2026-10-28（7 篇）
 
@@ -74,12 +84,3 @@ date: 2026-10-28
 | 7 | [[inbox/2026-10-23-pubmed-42904563|RNA-Based Biosensors in Microbial Cell Factory Engineering: A Hierarchical Framework From Enzyme to Host-Level Engineering.]] | PubMed | 00_Reviews |
 | 5 | [[inbox/2026-10-23-biorxiv-2026.10.18.759947|Enhanced Fidelity and Sequence Generality of an RNA Polymerase Ribozyme]] | bioRxiv | 01_RNA Biology |
 | 5 | [[inbox/2026-10-23-pubmed-42901927|Integrative structure of norovirus NS3 suggests a role in RNA transport.]] | PubMed | 03_RNA Structure Prediction |
-
-## 2026-10-21（4 篇）
-
-| 分 | 论文 | 来源 | 分类 |
-|:-:|---|---|---|
-| 5 | [[inbox/2026-10-21-pubmed-42900726|Molecular basis for discrimination of cGAMP linkage isomers by a c-di-GMP-II riboswitch variant.]] | PubMed | 05_RNA Sequence Design |
-| 4 | [[inbox/2026-10-21-pubmed-42898100|Box C/D SNORD116-17 promotes prostate cancer progression by targeting the miR-206/E2F5 axis.]] | PubMed | 01_RNA Biology |
-| 4 | [[inbox/2026-10-21-pubmed-42898134|From delivery to integration: CRISPR-mediated large insert gene editing in primary human T cells.]] | PubMed | 00_Reviews |
-| 4 | [[inbox/2026-10-21-biorxiv-2026.10.12.758266|RiboGRAM learns multi-scale non-coding RNA grammar for structural and regulatory inference]] | bioRxiv | 02_RNA Structure |

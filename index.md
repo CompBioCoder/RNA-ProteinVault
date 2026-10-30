@@ -1,12 +1,25 @@
 ---
 title: RNA × Protein 文献雷达
 publish: true
-date: 2026-10-29
+date: 2026-10-30
 ---
 
 每天自动抓取 arXiv / bioRxiv / PubMed，关键词打分后只留最相关的几篇。⭐ = 已标为必读。
 
 → [[starred|必读清单]] · [[topics|分类总览]]
+
+## 2026-10-30（8 篇）
+
+| 分 | 论文 | 来源 | 分类 |
+|:-:|---|---|---|
+| 24 | [[inbox/2026-10-30-pubmed-42954309|PRIDA: Cross-domain protein-RNA interaction prediction based on biological language models and conditional domain-adversarial learning.]] | PubMed | 05_RNA Sequence Design |
+| 13 | [[inbox/2026-10-30-pubmed-42955686|Multi-Omics Integration for RNA-RNA Interaction Prediction.]] | PubMed | 00_Reviews |
+| 10 | [[inbox/2026-10-30-pubmed-42954174|RNA-binding protein CLUH ameliorates metabolic-associated steatohepatitis pathogenesis by maintaining ER homeostasis.]] | PubMed | 01_RNA Biology |
+| 7 | [[inbox/2026-10-30-pubmed-42955688|Benchmarking, Reproducibility, and FAIR Pipelines for RNA-RNA Interaction Prediction.]] | PubMed | 09_Datasets & Databases |
+| 7 | [[inbox/2026-10-30-pubmed-42955674|Deep Learning Approaches for the RNA-RNA Interaction Prediction Problem.]] | PubMed | 00_Reviews |
+| 7 | [[inbox/2026-10-30-pubmed-42955677|Evaluating Web Servers for RNA-RNA Interaction.]] | PubMed | 00_Reviews |
+| 7 | [[inbox/2026-10-30-pubmed-42955676|Pseudoknots: Based RRI Detection Using Machine Learning Models.]] | PubMed | 00_Reviews |
+| 6 | [[inbox/2026-10-30-pubmed-42953157|Low-affinity exchangeable probes for super-resolution and long-term fluorescence imaging.]] | PubMed | 00_Reviews |
 
 ## 2026-10-29（5 篇）
 

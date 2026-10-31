@@ -1,12 +1,25 @@
 ---
 title: RNA × Protein 文献雷达
 publish: true
-date: 2026-10-30
+date: 2026-10-31
 ---
 
 每天自动抓取 arXiv / bioRxiv / PubMed，关键词打分后只留最相关的几篇。⭐ = 已标为必读。
 
 → [[starred|必读清单]] · [[topics|分类总览]]
+
+## 2026-10-31（8 篇）
+
+| 分 | 论文 | 来源 | 分类 |
+|:-:|---|---|---|
+| 22 | [[inbox/2026-10-31-pubmed-42956877|Heterogeneity-aware structure-sequence expert collaboration for RNA-binding site prediction with evidence-grounded interpretation.]] | PubMed | 09_Datasets & Databases |
+| 19 | [[inbox/2026-10-31-pubmed-42961746|Meta-Scoring Approach to Curate Synthetic RNA 3D Structures.]] | PubMed | 05_RNA Sequence Design |
+| 17 | [[inbox/2026-10-31-pubmed-42961738|Computational Design of Prokaryotic Translation Regulation Based on RNA-Binding Proteins.]] | PubMed | 02_RNA Structure |
+| 16 | [[inbox/2026-10-31-pubmed-42960510|Structural probing of RNA hairpins quantifies protein occupancy on RNA and links it to function in human cells.]] | PubMed | 03_RNA Structure Prediction |
+| 14 | [[inbox/2026-10-31-pubmed-42961747|RNA Tertiary Structure Prediction and Analysis Using NuFold and the NuFold Database.]] | PubMed | 03_RNA Structure Prediction |
+| 9 | [[inbox/2026-10-31-pubmed-42958962|ARIEL: an openly accessible database of experimental RNA-ligand binding affinities paired with 3D structures.]] | PubMed | 09_Datasets & Databases |
+| 9 | [[inbox/2026-10-31-pubmed-42961745|Flexible RNA Design with Partial Constraints.]] | PubMed | 05_RNA Sequence Design |
+| 9 | [[inbox/2026-10-31-pubmed-42959435|Virology-aware artificial intelligence for respiratory antiviral discovery: from molecular docking biases to RdRp-centered benchmarking.]] | PubMed | 00_Reviews |
 
 ## 2026-10-30（8 篇）
 
@@ -85,15 +98,3 @@ date: 2026-10-30
 | 8 | [[inbox/2026-10-24-pubmed-42917189|Local RNA Structure, Ion Hydration Shell, and the Energy Barrier for Water Exchange from the Ion Hydration Shell Determine the Mechanism of Ion Condensation on Specific RNA Sites.]] | PubMed | 05_RNA Sequence Design |
 | 8 | [[inbox/2026-10-24-pubmed-42914020|Site-specific m1A Installation by the MTR1 Ribozyme and Modulation of Mitochondrial mRNA Translation in vitro.]] | PubMed | 01_RNA Biology |
 | 4 | [[inbox/2026-10-24-pubmed-42915605|Programmable Enhancement of IRES-Mediated Translation via RNA-Guided eIF4G Recruitment.]] | PubMed | 03_RNA Structure Prediction |
-
-## 2026-10-23（7 篇）
-
-| 分 | 论文 | 来源 | 分类 |
-|:-:|---|---|---|
-| 15 | [[inbox/2026-10-23-pubmed-42904565|A Recurrent 3'UTR Variant in CAPN3 Highlights the Diagnostic Impact of Non-Coding Variants in Limb-Girdle Muscular Dystrophies.]] | PubMed | 02_RNA Structure |
-| 12 | [[inbox/2026-10-23-pubmed-42904357|G4All: a database of experimentally confirmed G-quadruplex-forming sequences.]] | PubMed | 05_RNA Sequence Design |
-| 9 | [[inbox/2026-10-23-pubmed-42901161|Regulatable in vivo gene expression via adaptamers.]] | PubMed | 05_RNA Sequence Design |
-| 9 | [[inbox/2026-10-23-pubmed-42902558|The RNA binding protein RGGA acts as a sugar-responsive cofactor of the 5'-3' exoribonuclease XRN4 to function in selective mRNA degradation and post-transcriptional regulation of plant growth.]] | PubMed | 01_RNA Biology |
-| 7 | [[inbox/2026-10-23-pubmed-42904563|RNA-Based Biosensors in Microbial Cell Factory Engineering: A Hierarchical Framework From Enzyme to Host-Level Engineering.]] | PubMed | 00_Reviews |
-| 5 | [[inbox/2026-10-23-biorxiv-2026.10.18.759947|Enhanced Fidelity and Sequence Generality of an RNA Polymerase Ribozyme]] | bioRxiv | 01_RNA Biology |
-| 5 | [[inbox/2026-10-23-pubmed-42901927|Integrative structure of norovirus NS3 suggests a role in RNA transport.]] | PubMed | 03_RNA Structure Prediction |

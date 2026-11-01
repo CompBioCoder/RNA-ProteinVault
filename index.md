@@ -1,7 +1,7 @@
 ---
 title: RNA × Protein 文献雷达
 publish: true
-date: 2026-10-31
+date: 2026-11-01
 ---
 
 每天自动抓取 arXiv / bioRxiv / PubMed，关键词打分后只留最相关的几篇。⭐ = 已标为必读。
@@ -77,24 +77,3 @@ date: 2026-10-31
 | 9 | [[inbox/2026-10-25-pubmed-42926605|The RNA-binding protein TRIM71 Promotes Supporting Cell Reprogramming and Hair Cell Regeneration by Activating Sall4.]] | PubMed | 01_RNA Biology |
 | 7 | [[inbox/2026-10-25-pubmed-42922650|Viscoelasticity and Interface Properties of Multi-Component Condensates Govern Protein Sequestration and Suppression of Amyloid Formation.]] | PubMed | 03_RNA Structure Prediction |
 | 6 | [[inbox/2026-10-25-pubmed-42924586|Liquid‑liquid phase separation and post‑transcriptional regulation intersection: A new paradigm of RNA‑binding protein condensates in hepatocellular carcinoma malignant phenotypes (Review).]] | PubMed | 00_Reviews |
-
-## 2026-10-24（16 篇）
-
-| 分 | 论文 | 来源 | 分类 |
-|:-:|---|---|---|
-| 25 | [[inbox/2026-10-24-pubmed-42906042|MultiRSF: A Deep Learning Approach for Predicting RNA-Small-Molecule Binding Sites Using Surface Characteristics.]] | PubMed | 05_RNA Sequence Design |
-| 16 | [[inbox/2026-10-24-pubmed-42916609|Interpretable Protein-Nucleic Acid Binding Site Prediction via Domain-Guided Multimodal Learning.]] | PubMed | 06_Protein Prediction |
-| 13 | [[inbox/2026-10-24-pubmed-42906068|APDB: A Large-Scale Repository of Predicted 2D and 3D Aptamer Structures.]] | PubMed | 05_RNA Sequence Design |
-| 11 | [[inbox/2026-10-24-pubmed-42917459|Developing Explicit Base Stacking Potentials for the IsRNA2+ Coarse-Grained RNA Force Field Using Iterative Reweighting.]] | PubMed | 03_RNA Structure Prediction |
-| 11 | [[inbox/2026-10-24-pubmed-42906549|Phase separation of Rbpms sequesters translation elongation machinery to preserve hematopoietic stem cell function.]] | PubMed | 03_RNA Structure Prediction |
-| 11 | [[inbox/2026-10-24-pubmed-42908869|RLAgent: retrieval-augmented LLM agents for code-free RNA region-ligand interaction modeling.]] | PubMed | 00_Reviews |
-| 10 | [[inbox/2026-10-24-pubmed-42906689|Recurring RNA motifs: from A-minor to ribose zipper.]] | PubMed | 05_RNA Sequence Design |
-| 10 | [[inbox/2026-10-24-pubmed-42914533|Substitutions in the yeast Nrd1 RNA-binding domain have distinct effects on NNS terminator recognition.]] | PubMed | 02_RNA Structure |
-| 10 | [[inbox/2026-10-24-pubmed-42911494|Visualization of RNA Structures and Functional Annotations Using ArcPlot.]] | PubMed | 03_RNA Structure Prediction |
-| 9 | [[inbox/2026-10-24-pubmed-42915606|Cryptic RNA Binding Sites Are Energetically Accessible and Chemically Addressable.]] | PubMed | 05_RNA Sequence Design |
-| 9 | [[inbox/2026-10-24-pubmed-42917455|Integrating Enhanced Molecular Sampling, RNA-Specific Scoring Functions, and SILCS Technology for Small-Molecule Targeting of RNA.]] | PubMed | 00_Reviews |
-| 8 | [[inbox/2026-10-24-pubmed-42911492|Capture and Purification of Endogenous Long Noncoding Ribonucleic Protein Complexes for Protein Identification Using Grad-MS.]] | PubMed | 01_RNA Biology |
-| 8 | [[inbox/2026-10-24-pubmed-42910884|Deciphering the Molecular Basis of Poly(A)-Binding Protein Selectivity for Homopolymeric RNAs.]] | PubMed | 01_RNA Biology |
-| 8 | [[inbox/2026-10-24-pubmed-42917189|Local RNA Structure, Ion Hydration Shell, and the Energy Barrier for Water Exchange from the Ion Hydration Shell Determine the Mechanism of Ion Condensation on Specific RNA Sites.]] | PubMed | 05_RNA Sequence Design |
-| 8 | [[inbox/2026-10-24-pubmed-42914020|Site-specific m1A Installation by the MTR1 Ribozyme and Modulation of Mitochondrial mRNA Translation in vitro.]] | PubMed | 01_RNA Biology |
-| 4 | [[inbox/2026-10-24-pubmed-42915605|Programmable Enhancement of IRES-Mediated Translation via RNA-Guided eIF4G Recruitment.]] | PubMed | 03_RNA Structure Prediction |

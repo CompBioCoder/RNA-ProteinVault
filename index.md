@@ -1,7 +1,7 @@
 ---
 title: RNA × Protein 文献雷达
 publish: true
-date: 2026-11-01
+date: 2026-11-02
 ---
 
 每天自动抓取 arXiv / bioRxiv / PubMed，关键词打分后只留最相关的几篇。⭐ = 已标为必读。
@@ -64,16 +64,3 @@ date: 2026-11-01
 | 11 | [[inbox/2026-10-27-pubmed-42931114|From Binding Sites to Target Genes: Reframing Human microRNA Target Prediction.]] | PubMed | 09_Datasets & Databases |
 | 5 | [[inbox/2026-10-27-pubmed-42929764|Ernie-Switcher: RNA foundation model-guided design of programmable RNA devices in a navigable landscape.]] | PubMed | 03_RNA Structure Prediction |
 | 4 | [[inbox/2026-10-27-pubmed-42930554|Epigenetic Viral Mimicry in Neuroinflammation: Retrotransposons, cGAS-STING and Microglial Hysteresis.]] | PubMed | 01_RNA Biology |
-
-## 2026-10-25（8 篇）
-
-| 分 | 论文 | 来源 | 分类 |
-|:-:|---|---|---|
-| 18 | [[inbox/2026-10-25-pubmed-42921301|N6-Methyladenosine RNA Modifications Influence the Stability of FUS-Dependent Biological Condensate Formation.]] | PubMed | 03_RNA Structure Prediction |
-| 13 | [[inbox/2026-10-25-pubmed-42922160|RNA-binding proteins in spermatogenesis: functional mechanisms, clinical potential, and future perspectives.]] | PubMed | 00_Reviews |
-| 10 | [[inbox/2026-10-25-pubmed-42922627|Ablation of a maternal Cryptosporidium mRNA-binding protein results in sterile sporozoites.]] | PubMed | 02_RNA Structure |
-| 10 | [[inbox/2026-10-25-pubmed-42926732|Pumilio proteins license viral noncoding RNA engagement with target mRNAs.]] | PubMed | 01_RNA Biology |
-| 10 | [[inbox/2026-10-25-pubmed-42922532|Structures of pUG-fold RNA bound to DNMT1 reveal a mechanism for RNA-mediated epigenetic regulation.]] | PubMed | 03_RNA Structure Prediction |
-| 9 | [[inbox/2026-10-25-pubmed-42926605|The RNA-binding protein TRIM71 Promotes Supporting Cell Reprogramming and Hair Cell Regeneration by Activating Sall4.]] | PubMed | 01_RNA Biology |
-| 7 | [[inbox/2026-10-25-pubmed-42922650|Viscoelasticity and Interface Properties of Multi-Component Condensates Govern Protein Sequestration and Suppression of Amyloid Formation.]] | PubMed | 03_RNA Structure Prediction |
-| 6 | [[inbox/2026-10-25-pubmed-42924586|Liquid‑liquid phase separation and post‑transcriptional regulation intersection: A new paradigm of RNA‑binding protein condensates in hepatocellular carcinoma malignant phenotypes (Review).]] | PubMed | 00_Reviews |

@@ -1,12 +1,25 @@
 ---
 title: RNA × Protein 文献雷达
 publish: true
-date: 2026-11-02
+date: 2026-11-03
 ---
 
 每天自动抓取 arXiv / bioRxiv / PubMed，关键词打分后只留最相关的几篇。⭐ = 已标为必读。
 
 → [[starred|必读清单]] · [[topics|分类总览]]
+
+## 2026-11-03（8 篇）
+
+| 分 | 论文 | 来源 | 分类 |
+|:-:|---|---|---|
+| 13 | [[inbox/2026-11-03-pubmed-42966632|Multi-omics Profiling of Post-translational Modifications in RNA-binding Proteins in Colorectal Cancer.]] | PubMed | 09_Datasets & Databases |
+| 10 | [[inbox/2026-11-03-pubmed-42969155|Physical determinants of reliable RNA-ligand binding prediction revealed by P-RISE.]] | PubMed | 03_RNA Structure Prediction |
+| 8 | [[inbox/2026-11-03-pubmed-42965002|RNA Synthesis and Degradation Regulate Biomolecular Condensates through Nonequilibrium Feedback.]] | PubMed | 01_RNA Biology |
+| 7 | [[inbox/2026-11-03-pubmed-42964658|pycircdb: integrated circRNA database annotation for computational workflows.]] | PubMed | 09_Datasets & Databases |
+| 5 | [[inbox/2026-11-03-pubmed-42969154|RNA viruses can exploit self-cleaving ribozymes for translation initiation.]] | PubMed | 02_RNA Structure |
+| 5 | [[inbox/2026-11-03-pubmed-42968169|Targeting lncRNA Carmn alleviates scleral remodeling in high myopia via Myrf-mediated repression of YAP activity.]] | PubMed | 01_RNA Biology |
+| 4 | [[inbox/2026-11-03-pubmed-42969898|Molecular dynamics insights into the recognition mechanism of LARP1 for poly(A) RNA.]] | PubMed | 01_RNA Biology |
+| 4 | [[inbox/2026-11-03-pubmed-42970583|The promiscuity and degeneracy of ten unique RNA base-pairing rules can determine the success of adaptive RNA evolution.]] | PubMed | 01_RNA Biology |
 
 ## 2026-10-31（8 篇）
 

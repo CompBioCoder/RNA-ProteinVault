@@ -1,12 +1,23 @@
 ---
 title: RNA × Protein 文献雷达
 publish: true
-date: 2026-11-03
+date: 2026-11-04
 ---
 
 每天自动抓取 arXiv / bioRxiv / PubMed，关键词打分后只留最相关的几篇。⭐ = 已标为必读。
 
 → [[starred|必读清单]] · [[topics|分类总览]]
+
+## 2026-11-04（6 篇）
+
+| 分 | 论文 | 来源 | 分类 |
+|:-:|---|---|---|
+| 17 | [[inbox/2026-11-04-pubmed-42972225|Identification and binding-site mapping of RNA-binding proteins interacting with microRNA precursors in Arabidopsis.]] | PubMed | 03_RNA Structure Prediction |
+| 15 | [[inbox/2026-11-04-biorxiv-2026.10.28.762670|LIMBER: A Hybrid RNA Foundation Model for Predicting and Understanding RNA Structure and Function]] | bioRxiv | 03_RNA Structure Prediction |
+| 7 | [[inbox/2026-11-04-biorxiv-2026.10.30.763149|Low-pass filtering revisited: ramped phase randomization for cryo-EM map comparison and data augmentation]] | bioRxiv | 02_RNA Structure |
+| 6 | [[inbox/2026-11-04-pubmed-42974694|Lysine-Targeted Covalent Inhibition of eIF4E with an Anionic Electrophile Warhead.]] | PubMed | 01_RNA Biology |
+| 5 | [[inbox/2026-11-04-pubmed-42972006|Author Correction: Pathogen-induced condensation of the guard cell RNA-binding protein SAIR1 fine-tunes translation for immunity.]] | PubMed | 01_RNA Biology |
+| 4 | [[inbox/2026-11-04-biorxiv-2026.10.29.762533|ScanFold3: a robust and rapid approach for identifying structured RNA targets in genomes and transcriptomes]] | bioRxiv | 03_RNA Structure Prediction |
 
 ## 2026-11-03（8 篇）
 
@@ -68,12 +79,3 @@ date: 2026-11-03
 | 6 | [[inbox/2026-10-28-pubmed-42942219|How Strong Is the Case for the RNA World?]] | PubMed | 00_Reviews |
 | 5 | [[inbox/2026-10-28-pubmed-42941877|Analysis of Ligation Activity in Miniaturized L1 Ligase Ribozyme Variants Down to 49 nt and in Split Ribozyme Forms.]] | PubMed | 03_RNA Structure Prediction |
 | 5 | [[inbox/2026-10-28-pubmed-42939789|Structure-Function Relationships of Cid1 Poly(U) Polymerase: Catalysis, Substrate Recognition, Engineering, and Applications.]] | PubMed | 00_Reviews |
-
-## 2026-10-27（4 篇）
-
-| 分 | 论文 | 来源 | 分类 |
-|:-:|---|---|---|
-| 16 | [[inbox/2026-10-27-pubmed-42929196|SMARTFlexDB: a paired apo-holo RNA structure database and analysis platform for RNA conformational flexibility and small-molecule recognition.]] | PubMed | 02_RNA Structure |
-| 11 | [[inbox/2026-10-27-pubmed-42931114|From Binding Sites to Target Genes: Reframing Human microRNA Target Prediction.]] | PubMed | 09_Datasets & Databases |
-| 5 | [[inbox/2026-10-27-pubmed-42929764|Ernie-Switcher: RNA foundation model-guided design of programmable RNA devices in a navigable landscape.]] | PubMed | 03_RNA Structure Prediction |
-| 4 | [[inbox/2026-10-27-pubmed-42930554|Epigenetic Viral Mimicry in Neuroinflammation: Retrotransposons, cGAS-STING and Microglial Hysteresis.]] | PubMed | 01_RNA Biology |

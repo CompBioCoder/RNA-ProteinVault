@@ -1,12 +1,25 @@
 ---
 title: RNA × Protein 文献雷达
 publish: true
-date: 2026-11-04
+date: 2026-11-05
 ---
 
 每天自动抓取 arXiv / bioRxiv / PubMed，关键词打分后只留最相关的几篇。⭐ = 已标为必读。
 
 → [[starred|必读清单]] · [[topics|分类总览]]
+
+## 2026-11-05（8 篇）
+
+| 分 | 论文 | 来源 | 分类 |
+|:-:|---|---|---|
+| 16 | [[inbox/2026-11-05-pubmed-42980758|Functional insights into long non-coding and circular RNAs afforded by studying their endogenous interactions with proteins.]] | PubMed | 01_RNA Biology |
+| 15 | [[inbox/2026-11-05-pubmed-42980366|RtmR is a membrane-embedded RRM family RNA-binding protein.]] | PubMed | 02_RNA Structure |
+| 8 | [[inbox/2026-11-05-pubmed-42976985|Cancer-associated SF3B1 mutation inhibits apoptosis via circATP9B.]] | PubMed | 01_RNA Biology |
+| 5 | [[inbox/2026-11-05-pubmed-42980187|Aptamers in cancer research: Focus on leukemia.]] | PubMed | 00_Reviews |
+| 5 | [[inbox/2026-11-05-biorxiv-2026.10.29.760789|Structure of influenza D virus NS1 reveals a novel Zn-binding site and ssRNA-binding activity]] | bioRxiv | 03_RNA Structure Prediction |
+| 5 | [[inbox/2026-11-05-pubmed-42980991|Structure-Guided Design of Pepper-Binding Fluorophores Through Hydrogen-Bonding Engineering.]] | PubMed | 05_RNA Sequence Design |
+| 4 | [[inbox/2026-11-05-pubmed-42979577|Bridging large language model-based agents and workflow languages for automated multi-perspective analysis of single-cell RNA sequencing data.]] | PubMed | 00_Reviews |
+| 4 | [[inbox/2026-11-05-biorxiv-2025.07.22.666027|Human ribosomes interactions reveal the binding landscape of neomycin]] | bioRxiv | 02_RNA Structure |
 
 ## 2026-11-04（6 篇）
 
@@ -67,15 +80,3 @@ date: 2026-11-04
 | 10 | [[inbox/2026-10-29-pubmed-42945840|Characterization of avian LEAP2 transcripts with alternative polyadenylation and their 3'UTR stability.]] | PubMed | 01_RNA Biology |
 | 7 | [[inbox/2026-10-29-pubmed-42947477|RNA-Binding Protein NOVA1 Restrains Immune Escape and Liver Metastasis in Colorectal Cancer via Stabilizing NRXN1 mRNA.]] | PubMed | 03_RNA Structure Prediction |
 | 5 | [[inbox/2026-10-29-pubmed-42945824|G3BP1-associated post-transcriptional regulation of MUC16 under hyperosmotic stress contributes to corneal epithelial barrier dysfunction.]] | PubMed | 01_RNA Biology |
-
-## 2026-10-28（7 篇）
-
-| 分 | 论文 | 来源 | 分类 |
-|:-:|---|---|---|
-| 14 | [[inbox/2026-10-28-pubmed-42938304|Identification of RNA-Binding Proteins Regulating the Alternative Splicing of TREM2 Exon 4.]] | PubMed | 01_RNA Biology |
-| 10 | [[inbox/2026-10-28-pubmed-42943678|CRISPR/Cas12a-Based Aptasensor for Cas9 Protein Detection in Spiked Food Matrices.]] | PubMed | 05_RNA Sequence Design |
-| 9 | [[inbox/2026-10-28-pubmed-42941968|RNA-Protein Dynamics of the Segmentation Clock and Its Implications in Developmental Disorders.]] | PubMed | 01_RNA Biology |
-| 6 | [[inbox/2026-10-28-pubmed-42941908|Co-Regulation Analysis of Domain-Specific Phosphosites Reveals Insights into the Phosphoregulation-Directed Functional Diversity of Nucleolin.]] | PubMed | 02_RNA Structure |
-| 6 | [[inbox/2026-10-28-pubmed-42942219|How Strong Is the Case for the RNA World?]] | PubMed | 00_Reviews |
-| 5 | [[inbox/2026-10-28-pubmed-42941877|Analysis of Ligation Activity in Miniaturized L1 Ligase Ribozyme Variants Down to 49 nt and in Split Ribozyme Forms.]] | PubMed | 03_RNA Structure Prediction |
-| 5 | [[inbox/2026-10-28-pubmed-42939789|Structure-Function Relationships of Cid1 Poly(U) Polymerase: Catalysis, Substrate Recognition, Engineering, and Applications.]] | PubMed | 00_Reviews |

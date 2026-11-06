@@ -1,12 +1,25 @@
 ---
 title: RNA × Protein 文献雷达
 publish: true
-date: 2026-11-05
+date: 2026-11-06
 ---
 
 每天自动抓取 arXiv / bioRxiv / PubMed，关键词打分后只留最相关的几篇。⭐ = 已标为必读。
 
 → [[starred|必读清单]] · [[topics|分类总览]]
+
+## 2026-11-06（8 篇）
+
+| 分 | 论文 | 来源 | 分类 |
+|:-:|---|---|---|
+| 27 | [[inbox/2026-11-06-pubmed-42983082|An open structure-guided RNA foundation model for generalizable prediction.]] | PubMed | 04_RNA Structure Assessment |
+| 24 | [[inbox/2026-11-06-biorxiv-2021.08.26.457839|Redesigning the Eterna100 RNA design benchmark for the Vienna 2 folding engine]] | bioRxiv | 05_RNA Sequence Design |
+| 18 | [[inbox/2026-11-06-pubmed-42985133|Identification and expression analysis of intergenic long non-coding RNAs (lincRNA) associated with stripe rust resistance in wheat.]] | PubMed | 03_RNA Structure Prediction |
+| 15 | [[inbox/2026-11-06-pubmed-42983073|Large-scale RNA-binding protein tethering screen discovers modulators of circular RNA metabolism.]] | PubMed | 02_RNA Structure |
+| 15 | [[inbox/2026-11-06-pubmed-42982803|Systematic screen of RNA binding proteins that enhance circular RNA translation.]] | PubMed | 02_RNA Structure |
+| 12 | [[inbox/2026-11-06-pubmed-42984443|Ribocentre-FoldBridge: a comprehensive database bridging RNA chemical probing data and 3D structures.]] | PubMed | 00_Reviews |
+| 11 | [[inbox/2026-11-06-pubmed-42986071|Enhanced Sampling of Ligand Binding Coupled to RNA Base-Flipping Dynamics.]] | PubMed | 05_RNA Sequence Design |
+| 11 | [[inbox/2026-11-06-pubmed-42983525|Identification and validation of RNA-binding protein-associated biomarkers in esophageal cancer.]] | PubMed | 09_Datasets & Databases |
 
 ## 2026-11-05（8 篇）
 
@@ -70,13 +83,3 @@ date: 2026-11-05
 | 7 | [[inbox/2026-10-30-pubmed-42955677|Evaluating Web Servers for RNA-RNA Interaction.]] | PubMed | 00_Reviews |
 | 7 | [[inbox/2026-10-30-pubmed-42955676|Pseudoknots: Based RRI Detection Using Machine Learning Models.]] | PubMed | 00_Reviews |
 | 6 | [[inbox/2026-10-30-pubmed-42953157|Low-affinity exchangeable probes for super-resolution and long-term fluorescence imaging.]] | PubMed | 00_Reviews |
-
-## 2026-10-29（5 篇）
-
-| 分 | 论文 | 来源 | 分类 |
-|:-:|---|---|---|
-| 15 | [[inbox/2026-10-29-pubmed-42946500|Contribution of disordered regions of the essential protein GEMIN5 to RNA binding.]] | PubMed | 03_RNA Structure Prediction |
-| 10 | [[inbox/2026-10-29-pubmed-42949066|Acute Loss of TrkB Signaling Impairs the Survival of Mature Retinal Ganglion Cells and Retinal Function.]] | PubMed | 01_RNA Biology |
-| 10 | [[inbox/2026-10-29-pubmed-42945840|Characterization of avian LEAP2 transcripts with alternative polyadenylation and their 3'UTR stability.]] | PubMed | 01_RNA Biology |
-| 7 | [[inbox/2026-10-29-pubmed-42947477|RNA-Binding Protein NOVA1 Restrains Immune Escape and Liver Metastasis in Colorectal Cancer via Stabilizing NRXN1 mRNA.]] | PubMed | 03_RNA Structure Prediction |
-| 5 | [[inbox/2026-10-29-pubmed-42945824|G3BP1-associated post-transcriptional regulation of MUC16 under hyperosmotic stress contributes to corneal epithelial barrier dysfunction.]] | PubMed | 01_RNA Biology |

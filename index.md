@@ -1,12 +1,25 @@
 ---
 title: RNA × Protein 文献雷达
 publish: true
-date: 2026-11-06
+date: 2026-11-07
 ---
 
 每天自动抓取 arXiv / bioRxiv / PubMed，关键词打分后只留最相关的几篇。⭐ = 已标为必读。
 
 → [[starred|必读清单]] · [[topics|分类总览]]
+
+## 2026-11-07（8 篇）
+
+| 分 | 论文 | 来源 | 分类 |
+|:-:|---|---|---|
+| 26 | [[inbox/2026-11-07-pubmed-42990246|A high-resolution protein-RNA binding atlas for structure-aware interaction prediction and post-transcriptional regulatory modeling.]] | PubMed | 09_Datasets & Databases |
+| 8 | [[inbox/2026-11-07-pubmed-42991175|Design and validation of nucleosome binding peptides using BindCraft.]] | PubMed | 07_Protein Design |
+| 6 | [[inbox/2026-11-07-pubmed-42990416|Tau is an m 6 A-associated RNA binding protein that causes RNA dysregulation in disease.]] | PubMed | 01_RNA Biology |
+| 5 | [[inbox/2026-11-07-pubmed-42987985|AI-Enhanced CRISPR-Cas9 Therapeutics: Advances in Precision, Safety, and Delivery.]] | PubMed | 00_Reviews |
+| 5 | [[inbox/2026-11-07-pubmed-42990591|AI-powered generative mRNA design: GEMORNA enables efficient expression and delivery for next-generation RNA therapeutics.]] | PubMed | 01_RNA Biology |
+| 5 | [[inbox/2026-11-07-pubmed-42988191|Computational Structural Dynamics and Preliminary Heterologous Expression Suggest a "Rigid-Anchor, Flexible-Melting" RNA Chaperone Mechanism for Rice OsCSP1.]] | PubMed | 03_RNA Structure Prediction |
+| 5 | [[inbox/2026-11-07-pubmed-42990184|Differential Survival of Retinal Ganglion Cell Types Following Branch Retinal Vein Occlusion.]] | PubMed | 01_RNA Biology |
+| 5 | [[inbox/2026-11-07-pubmed-42990240|MultiFlow: coupled flow matching for predicting single-cell multiomic perturbation responses in unseen cellular contexts.]] | PubMed | 09_Datasets & Databases |
 
 ## 2026-11-06（8 篇）
 
@@ -70,16 +83,3 @@ date: 2026-11-06
 | 9 | [[inbox/2026-10-31-pubmed-42958962|ARIEL: an openly accessible database of experimental RNA-ligand binding affinities paired with 3D structures.]] | PubMed | 09_Datasets & Databases |
 | 9 | [[inbox/2026-10-31-pubmed-42961745|Flexible RNA Design with Partial Constraints.]] | PubMed | 05_RNA Sequence Design |
 | 9 | [[inbox/2026-10-31-pubmed-42959435|Virology-aware artificial intelligence for respiratory antiviral discovery: from molecular docking biases to RdRp-centered benchmarking.]] | PubMed | 00_Reviews |
-
-## 2026-10-30（8 篇）
-
-| 分 | 论文 | 来源 | 分类 |
-|:-:|---|---|---|
-| 24 | [[inbox/2026-10-30-pubmed-42954309|PRIDA: Cross-domain protein-RNA interaction prediction based on biological language models and conditional domain-adversarial learning.]] | PubMed | 05_RNA Sequence Design |
-| 13 | [[inbox/2026-10-30-pubmed-42955686|Multi-Omics Integration for RNA-RNA Interaction Prediction.]] | PubMed | 00_Reviews |
-| 10 | [[inbox/2026-10-30-pubmed-42954174|RNA-binding protein CLUH ameliorates metabolic-associated steatohepatitis pathogenesis by maintaining ER homeostasis.]] | PubMed | 01_RNA Biology |
-| 7 | [[inbox/2026-10-30-pubmed-42955688|Benchmarking, Reproducibility, and FAIR Pipelines for RNA-RNA Interaction Prediction.]] | PubMed | 09_Datasets & Databases |
-| 7 | [[inbox/2026-10-30-pubmed-42955674|Deep Learning Approaches for the RNA-RNA Interaction Prediction Problem.]] | PubMed | 00_Reviews |
-| 7 | [[inbox/2026-10-30-pubmed-42955677|Evaluating Web Servers for RNA-RNA Interaction.]] | PubMed | 00_Reviews |
-| 7 | [[inbox/2026-10-30-pubmed-42955676|Pseudoknots: Based RRI Detection Using Machine Learning Models.]] | PubMed | 00_Reviews |
-| 6 | [[inbox/2026-10-30-pubmed-42953157|Low-affinity exchangeable probes for super-resolution and long-term fluorescence imaging.]] | PubMed | 00_Reviews |

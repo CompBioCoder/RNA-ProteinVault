@@ -1,12 +1,22 @@
 ---
 title: RNA × Protein 文献雷达
 publish: true
-date: 2026-11-07
+date: 2026-11-08
 ---
 
 每天自动抓取 arXiv / bioRxiv / PubMed，关键词打分后只留最相关的几篇。⭐ = 已标为必读。
 
 → [[starred|必读清单]] · [[topics|分类总览]]
+
+## 2026-11-08（5 篇）
+
+| 分 | 论文 | 来源 | 分类 |
+|:-:|---|---|---|
+| 14 | [[inbox/2026-11-08-pubmed-42994987|The evolutionary conserved protein-RNA interface formed by the cell-fate regulator Bicaudal-C.]] | PubMed | 03_RNA Structure Prediction |
+| 5 | [[inbox/2026-11-08-pubmed-42994664|Cryo-EM structure of a near-planar 13-mer ring formed by recombinant human parainfluenza virus type 2 nucleoprotein.]] | PubMed | 02_RNA Structure |
+| 4 | [[inbox/2026-11-08-pubmed-42994428|PARP1 hyperactivation uncouples transcription from protein expression through nuclear RNA retention.]] | PubMed | 01_RNA Biology |
+| 4 | [[inbox/2026-11-08-pubmed-42994986|RNA-dependent aggregation of a common TEV protease variant alters in vitro biomolecular condensate reconstitution.]] | PubMed | 01_RNA Biology |
+| 4 | [[inbox/2026-11-08-pubmed-42994707|Sorcin phase separation restrains p53 translation via stress granules to prevent hepatic stellate cell senescence in liver fibrosis.]] | PubMed | 09_Datasets & Databases |
 
 ## 2026-11-07（8 篇）
 
@@ -70,16 +80,3 @@ date: 2026-11-07
 | 5 | [[inbox/2026-11-03-pubmed-42968169|Targeting lncRNA Carmn alleviates scleral remodeling in high myopia via Myrf-mediated repression of YAP activity.]] | PubMed | 01_RNA Biology |
 | 4 | [[inbox/2026-11-03-pubmed-42969898|Molecular dynamics insights into the recognition mechanism of LARP1 for poly(A) RNA.]] | PubMed | 01_RNA Biology |
 | 4 | [[inbox/2026-11-03-pubmed-42970583|The promiscuity and degeneracy of ten unique RNA base-pairing rules can determine the success of adaptive RNA evolution.]] | PubMed | 01_RNA Biology |
-
-## 2026-10-31（8 篇）
-
-| 分 | 论文 | 来源 | 分类 |
-|:-:|---|---|---|
-| 22 | [[inbox/2026-10-31-pubmed-42956877|Heterogeneity-aware structure-sequence expert collaboration for RNA-binding site prediction with evidence-grounded interpretation.]] | PubMed | 09_Datasets & Databases |
-| 19 | [[inbox/2026-10-31-pubmed-42961746|Meta-Scoring Approach to Curate Synthetic RNA 3D Structures.]] | PubMed | 05_RNA Sequence Design |
-| 17 | [[inbox/2026-10-31-pubmed-42961738|Computational Design of Prokaryotic Translation Regulation Based on RNA-Binding Proteins.]] | PubMed | 02_RNA Structure |
-| 16 | [[inbox/2026-10-31-pubmed-42960510|Structural probing of RNA hairpins quantifies protein occupancy on RNA and links it to function in human cells.]] | PubMed | 03_RNA Structure Prediction |
-| 14 | [[inbox/2026-10-31-pubmed-42961747|RNA Tertiary Structure Prediction and Analysis Using NuFold and the NuFold Database.]] | PubMed | 03_RNA Structure Prediction |
-| 9 | [[inbox/2026-10-31-pubmed-42958962|ARIEL: an openly accessible database of experimental RNA-ligand binding affinities paired with 3D structures.]] | PubMed | 09_Datasets & Databases |
-| 9 | [[inbox/2026-10-31-pubmed-42961745|Flexible RNA Design with Partial Constraints.]] | PubMed | 05_RNA Sequence Design |
-| 9 | [[inbox/2026-10-31-pubmed-42959435|Virology-aware artificial intelligence for respiratory antiviral discovery: from molecular docking biases to RdRp-centered benchmarking.]] | PubMed | 00_Reviews |

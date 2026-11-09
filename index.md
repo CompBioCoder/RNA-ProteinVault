@@ -1,12 +1,25 @@
 ---
 title: RNA × Protein 文献雷达
 publish: true
-date: 2026-11-08
+date: 2026-11-09
 ---
 
 每天自动抓取 arXiv / bioRxiv / PubMed，关键词打分后只留最相关的几篇。⭐ = 已标为必读。
 
 → [[starred|必读清单]] · [[topics|分类总览]]
+
+## 2026-11-09（8 篇）
+
+| 分 | 论文 | 来源 | 分类 |
+|:-:|---|---|---|
+| 23 | [[inbox/2026-11-09-pubmed-42995254|Detection and characterization of in cellulo protein-RNA complexity by irCLIP-RNP, irCLIPv2 and Re-CLIP.]] | PubMed | 01_RNA Biology |
+| 17 | [[inbox/2026-11-09-pubmed-42996115|NuFold RNA Structure Database: Large-Scale RNA Tertiary Structure Prediction with Confidence Metrics.]] | PubMed | 03_RNA Structure Prediction |
+| 10 | [[inbox/2026-11-09-pubmed-42999167|Interdependent mode of RNA recognition by the interacting KH-domain proteins KhpA and KhpB.]] | PubMed | 02_RNA Structure |
+| 10 | [[inbox/2026-11-09-pubmed-42997511|Viral RNAs as Dual Graphs: Extending the Motif Universe of RNAs.]] | PubMed | 05_RNA Sequence Design |
+| 10 | [[inbox/2026-11-09-pubmed-42995790|scRBP infers cell-specific RNA-binding protein regulons from single-cell transcriptomes at gene and isoform resolution.]] | PubMed | 03_RNA Structure Prediction |
+| 7 | [[inbox/2026-11-09-pubmed-42999923|Cold-Inducible RNA-Binding Protein Alleviates Hypertensive Renal Injury Through the KEAP1-NRF2 Pathway.]] | PubMed | 01_RNA Biology |
+| 6 | [[inbox/2026-11-09-pubmed-42996015|AltORF-encoded microprotein recruits primary-ORF-encoded dehydrogenase to cell poles upon heat shock.]] | PubMed | 01_RNA Biology |
+| 4 | [[inbox/2026-11-09-biorxiv-2026.11.03.764019|A three-factor model can explain symmetry breaking and the n-1 rule during X-chromosome inactivation]] | bioRxiv | 01_RNA Biology |
 
 ## 2026-11-08（5 篇）
 

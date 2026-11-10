@@ -1,12 +1,20 @@
 ---
 title: RNA × Protein 文献雷达
 publish: true
-date: 2026-11-09
+date: 2026-11-10
 ---
 
 每天自动抓取 arXiv / bioRxiv / PubMed，关键词打分后只留最相关的几篇。⭐ = 已标为必读。
 
 → [[starred|必读清单]] · [[topics|分类总览]]
+
+## 2026-11-10（3 篇）
+
+| 分 | 论文 | 来源 | 分类 |
+|:-:|---|---|---|
+| 13 | [[inbox/2026-11-10-pubmed-43002601|Impact of training data on deep learning-based RNA 3D structure quality assessment.]] | PubMed | 04_RNA Structure Assessment |
+| 7 | [[inbox/2026-11-10-pubmed-43001935|LESS-PseU: A Language Model-Enhanced Semistacking Framework for RNA Pseudouridine Site Prediction.]] | PubMed | 09_Datasets & Databases |
+| 4 | [[inbox/2026-11-10-pubmed-43001908|Mutations in the nsP1 dodecamerization surface impair Semliki Forest virus RNA synthesis in mosquito cells.]] | PubMed | 01_RNA Biology |
 
 ## 2026-11-09（8 篇）
 

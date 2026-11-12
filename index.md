@@ -1,7 +1,7 @@
 ---
 title: RNA × Protein 文献雷达
 publish: true
-date: 2026-11-11
+date: 2026-11-12
 ---
 
 每天自动抓取 arXiv / bioRxiv / PubMed，关键词打分后只留最相关的几篇。⭐ = 已标为必读。
@@ -86,14 +86,3 @@ date: 2026-11-11
 | 5 | [[inbox/2026-11-05-pubmed-42980991|Structure-Guided Design of Pepper-Binding Fluorophores Through Hydrogen-Bonding Engineering.]] | PubMed | 05_RNA Sequence Design |
 | 4 | [[inbox/2026-11-05-pubmed-42979577|Bridging large language model-based agents and workflow languages for automated multi-perspective analysis of single-cell RNA sequencing data.]] | PubMed | 00_Reviews |
 | 4 | [[inbox/2026-11-05-biorxiv-2025.07.22.666027|Human ribosomes interactions reveal the binding landscape of neomycin]] | bioRxiv | 02_RNA Structure |
-
-## 2026-11-04（6 篇）
-
-| 分 | 论文 | 来源 | 分类 |
-|:-:|---|---|---|
-| 17 | [[inbox/2026-11-04-pubmed-42972225|Identification and binding-site mapping of RNA-binding proteins interacting with microRNA precursors in Arabidopsis.]] | PubMed | 03_RNA Structure Prediction |
-| 15 | [[inbox/2026-11-04-biorxiv-2026.10.28.762670|LIMBER: A Hybrid RNA Foundation Model for Predicting and Understanding RNA Structure and Function]] | bioRxiv | 03_RNA Structure Prediction |
-| 7 | [[inbox/2026-11-04-biorxiv-2026.10.30.763149|Low-pass filtering revisited: ramped phase randomization for cryo-EM map comparison and data augmentation]] | bioRxiv | 02_RNA Structure |
-| 6 | [[inbox/2026-11-04-pubmed-42974694|Lysine-Targeted Covalent Inhibition of eIF4E with an Anionic Electrophile Warhead.]] | PubMed | 01_RNA Biology |
-| 5 | [[inbox/2026-11-04-pubmed-42972006|Author Correction: Pathogen-induced condensation of the guard cell RNA-binding protein SAIR1 fine-tunes translation for immunity.]] | PubMed | 01_RNA Biology |
-| 4 | [[inbox/2026-11-04-biorxiv-2026.10.29.762533|ScanFold3: a robust and rapid approach for identifying structured RNA targets in genomes and transcriptomes]] | bioRxiv | 03_RNA Structure Prediction |

@@ -1,12 +1,25 @@
 ---
 title: RNA × Protein 文献雷达
 publish: true
-date: 2026-11-12
+date: 2026-11-13
 ---
 
 每天自动抓取 arXiv / bioRxiv / PubMed，关键词打分后只留最相关的几篇。⭐ = 已标为必读。
 
 → [[starred|必读清单]] · [[topics|分类总览]]
+
+## 2026-11-13（8 篇）
+
+| 分 | 论文 | 来源 | 分类 |
+|:-:|---|---|---|
+| 20 | [[inbox/2026-11-13-pubmed-43010843|oRNAment V2: an expanded database of putative RNA binding protein target sites in the transcriptomes of diverse model species.]] | PubMed | 02_RNA Structure |
+| 15 | [[inbox/2026-11-13-pubmed-43018555|Medicinal Chemistry Strategies for Targeting RNA-Binding Proteins: Design, Optimization, and Therapeutic Potential.]] | PubMed | 01_RNA Biology |
+| 15 | [[inbox/2026-11-13-pubmed-43013389|RNA-binding protein NOC4L governs early natural killer cell development through dual post-transcriptional mechanisms.]] | PubMed | 02_RNA Structure |
+| 11 | [[inbox/2026-11-13-pubmed-43011589|CLIPittyClip: a single-command framework for CLIP sequencing data analysis.]] | PubMed | 03_RNA Structure Prediction |
+| 11 | [[inbox/2026-11-13-biorxiv-2026.03.23.713157|Molecular Modulation of the SAM-I Riboswitch Drives Global Dynamical Shifts]] | bioRxiv | 05_RNA Sequence Design |
+| 11 | [[inbox/2026-11-13-pubmed-43013395|RNA-binding protein RBM34 promotes hepatic fibrosis by enhancing DROSHA-mediated nuclear export of Loxl2 mRNA.]] | PubMed | 00_Reviews |
+| 10 | [[inbox/2026-11-13-pubmed-43017785|PARP1 hyperactivation: mechanisms and cellular consequences.]] | PubMed | 01_RNA Biology |
+| 10 | [[inbox/2026-11-13-pubmed-43008691|Structure-guided optimization of the A58 DNA aptamer targeting the SARS-CoV-2 nucleocapsid protein through integrated computational analysis.]] | PubMed | 05_RNA Sequence Design |
 
 ## 2026-11-11（4 篇）
 
@@ -73,16 +86,3 @@ date: 2026-11-12
 | 12 | [[inbox/2026-11-06-pubmed-42984443|Ribocentre-FoldBridge: a comprehensive database bridging RNA chemical probing data and 3D structures.]] | PubMed | 00_Reviews |
 | 11 | [[inbox/2026-11-06-pubmed-42986071|Enhanced Sampling of Ligand Binding Coupled to RNA Base-Flipping Dynamics.]] | PubMed | 05_RNA Sequence Design |
 | 11 | [[inbox/2026-11-06-pubmed-42983525|Identification and validation of RNA-binding protein-associated biomarkers in esophageal cancer.]] | PubMed | 09_Datasets & Databases |
-
-## 2026-11-05（8 篇）
-
-| 分 | 论文 | 来源 | 分类 |
-|:-:|---|---|---|
-| 16 | [[inbox/2026-11-05-pubmed-42980758|Functional insights into long non-coding and circular RNAs afforded by studying their endogenous interactions with proteins.]] | PubMed | 01_RNA Biology |
-| 15 | [[inbox/2026-11-05-pubmed-42980366|RtmR is a membrane-embedded RRM family RNA-binding protein.]] | PubMed | 02_RNA Structure |
-| 8 | [[inbox/2026-11-05-pubmed-42976985|Cancer-associated SF3B1 mutation inhibits apoptosis via circATP9B.]] | PubMed | 01_RNA Biology |
-| 5 | [[inbox/2026-11-05-pubmed-42980187|Aptamers in cancer research: Focus on leukemia.]] | PubMed | 00_Reviews |
-| 5 | [[inbox/2026-11-05-biorxiv-2026.10.29.760789|Structure of influenza D virus NS1 reveals a novel Zn-binding site and ssRNA-binding activity]] | bioRxiv | 03_RNA Structure Prediction |
-| 5 | [[inbox/2026-11-05-pubmed-42980991|Structure-Guided Design of Pepper-Binding Fluorophores Through Hydrogen-Bonding Engineering.]] | PubMed | 05_RNA Sequence Design |
-| 4 | [[inbox/2026-11-05-pubmed-42979577|Bridging large language model-based agents and workflow languages for automated multi-perspective analysis of single-cell RNA sequencing data.]] | PubMed | 00_Reviews |
-| 4 | [[inbox/2026-11-05-biorxiv-2025.07.22.666027|Human ribosomes interactions reveal the binding landscape of neomycin]] | bioRxiv | 02_RNA Structure |

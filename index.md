@@ -1,12 +1,23 @@
 ---
 title: RNA × Protein 文献雷达
 publish: true
-date: 2026-11-13
+date: 2026-11-14
 ---
 
 每天自动抓取 arXiv / bioRxiv / PubMed，关键词打分后只留最相关的几篇。⭐ = 已标为必读。
 
 → [[starred|必读清单]] · [[topics|分类总览]]
+
+## 2026-11-14（6 篇）
+
+| 分 | 论文 | 来源 | 分类 |
+|:-:|---|---|---|
+| 15 | [[inbox/2026-11-14-pubmed-43023614|Host RNA-binding protein LARP6 controls SARS-CoV-2 programmed -1 ribosomal frameshifting.]] | PubMed | 02_RNA Structure |
+| 15 | [[inbox/2026-11-14-pubmed-43023405|LUNA-FM: a subword foundation model for long non-coding RNAs for functional inference.]] | PubMed | 02_RNA Structure |
+| 6 | [[inbox/2026-11-14-arxiv-2611.15109|Expanding the Decision Space of Pretrained Models through Structured Re-Decoding]] | arXiv | 03_RNA Structure Prediction |
+| 4 | [[inbox/2026-11-14-pubmed-43024504|G3BP1-mediated RNA-RNA interactions regulate stress granule assembly.]] | PubMed | 02_RNA Structure |
+| 4 | [[inbox/2026-11-14-pubmed-43020947|PIWIL2 suppresses pluripotency in the male mouse germline.]] | PubMed | 01_RNA Biology |
+| 4 | [[inbox/2026-11-14-pubmed-43022293|RBM42 couples alternative splicing to cytoskeletal organization to direct cortical development.]] | PubMed | 01_RNA Biology |
 
 ## 2026-11-13（8 篇）
 
@@ -73,16 +84,3 @@ date: 2026-11-13
 | 5 | [[inbox/2026-11-07-pubmed-42988191|Computational Structural Dynamics and Preliminary Heterologous Expression Suggest a "Rigid-Anchor, Flexible-Melting" RNA Chaperone Mechanism for Rice OsCSP1.]] | PubMed | 03_RNA Structure Prediction |
 | 5 | [[inbox/2026-11-07-pubmed-42990184|Differential Survival of Retinal Ganglion Cell Types Following Branch Retinal Vein Occlusion.]] | PubMed | 01_RNA Biology |
 | 5 | [[inbox/2026-11-07-pubmed-42990240|MultiFlow: coupled flow matching for predicting single-cell multiomic perturbation responses in unseen cellular contexts.]] | PubMed | 09_Datasets & Databases |
-
-## 2026-11-06（8 篇）
-
-| 分 | 论文 | 来源 | 分类 |
-|:-:|---|---|---|
-| 27 | [[inbox/2026-11-06-pubmed-42983082|An open structure-guided RNA foundation model for generalizable prediction.]] | PubMed | 04_RNA Structure Assessment |
-| 24 | [[inbox/2026-11-06-biorxiv-2021.08.26.457839|Redesigning the Eterna100 RNA design benchmark for the Vienna 2 folding engine]] | bioRxiv | 05_RNA Sequence Design |
-| 18 | [[inbox/2026-11-06-pubmed-42985133|Identification and expression analysis of intergenic long non-coding RNAs (lincRNA) associated with stripe rust resistance in wheat.]] | PubMed | 03_RNA Structure Prediction |
-| 15 | [[inbox/2026-11-06-pubmed-42983073|Large-scale RNA-binding protein tethering screen discovers modulators of circular RNA metabolism.]] | PubMed | 02_RNA Structure |
-| 15 | [[inbox/2026-11-06-pubmed-42982803|Systematic screen of RNA binding proteins that enhance circular RNA translation.]] | PubMed | 02_RNA Structure |
-| 12 | [[inbox/2026-11-06-pubmed-42984443|Ribocentre-FoldBridge: a comprehensive database bridging RNA chemical probing data and 3D structures.]] | PubMed | 00_Reviews |
-| 11 | [[inbox/2026-11-06-pubmed-42986071|Enhanced Sampling of Ligand Binding Coupled to RNA Base-Flipping Dynamics.]] | PubMed | 05_RNA Sequence Design |
-| 11 | [[inbox/2026-11-06-pubmed-42983525|Identification and validation of RNA-binding protein-associated biomarkers in esophageal cancer.]] | PubMed | 09_Datasets & Databases |

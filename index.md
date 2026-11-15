@@ -1,12 +1,25 @@
 ---
 title: RNA × Protein 文献雷达
 publish: true
-date: 2026-11-14
+date: 2026-11-15
 ---
 
 每天自动抓取 arXiv / bioRxiv / PubMed，关键词打分后只留最相关的几篇。⭐ = 已标为必读。
 
 → [[starred|必读清单]] · [[topics|分类总览]]
+
+## 2026-11-15（8 篇）
+
+| 分 | 论文 | 来源 | 分类 |
+|:-:|---|---|---|
+| 15 | [[inbox/2026-11-15-pubmed-43026484|MiR156-dependent and miR156-independent effects of the RNA-binding protein AtGRP7 on vegetative phase change in Arabidopsis.]] | PubMed | 01_RNA Biology |
+| 13 | [[inbox/2026-11-15-pubmed-43029177|Ribozymes, DNAzymes, and Fluorescent Aptamers: Diversity, Mechanisms, and Prospects for Bioanalytical Applications.]] | PubMed | 00_Reviews |
+| 10 | [[inbox/2026-11-15-pubmed-43028212|GAC-BiT-CNN: A Hybrid Generative Adversarial Capsule-Transformer-CNN Model with Fused Protein Language Model Embeddings for Methyltransferase Prediction.]] | PubMed | 06_Protein Prediction |
+| 10 | [[inbox/2026-11-15-pubmed-43026333|HuR coordinates cytokine translation and maturation through ER-associated RNA granules.]] | PubMed | 01_RNA Biology |
+| 8 | [[inbox/2026-11-15-pubmed-43027897|Pyrrolocytosine as a Fluorescent Sensor of RNA-Small Molecule Interactions.]] | PubMed | 05_RNA Sequence Design |
+| 7 | [[inbox/2026-11-15-pubmed-43027349|Comprehensive Proteomics Reveals Pachymic Acid Targeting RBMX via hnRNPC Degradation in Colorectal Cancer.]] | PubMed | 02_RNA Structure |
+| 6 | [[inbox/2026-11-15-pubmed-43027924|Emerging Computational Advances in Simulating PCSK9 Variant Dynamics for Therapeutic Design Against Hypercholesterolemia.]] | PubMed | 00_Reviews |
+| 4 | [[inbox/2026-11-15-pubmed-43031712|The baseline predictive value of the RNA-binding proteins IGF2BP3/IMP3 and UPF1 for in-stent restenosis after percutaneous coronary intervention in acute coronary syndrome: a retrospective cohort study.]] | PubMed | 01_RNA Biology |
 
 ## 2026-11-14（6 篇）
 
@@ -71,16 +84,3 @@ date: 2026-11-14
 | 4 | [[inbox/2026-11-08-pubmed-42994428|PARP1 hyperactivation uncouples transcription from protein expression through nuclear RNA retention.]] | PubMed | 01_RNA Biology |
 | 4 | [[inbox/2026-11-08-pubmed-42994986|RNA-dependent aggregation of a common TEV protease variant alters in vitro biomolecular condensate reconstitution.]] | PubMed | 01_RNA Biology |
 | 4 | [[inbox/2026-11-08-pubmed-42994707|Sorcin phase separation restrains p53 translation via stress granules to prevent hepatic stellate cell senescence in liver fibrosis.]] | PubMed | 09_Datasets & Databases |
-
-## 2026-11-07（8 篇）
-
-| 分 | 论文 | 来源 | 分类 |
-|:-:|---|---|---|
-| 26 | [[inbox/2026-11-07-pubmed-42990246|A high-resolution protein-RNA binding atlas for structure-aware interaction prediction and post-transcriptional regulatory modeling.]] | PubMed | 09_Datasets & Databases |
-| 8 | [[inbox/2026-11-07-pubmed-42991175|Design and validation of nucleosome binding peptides using BindCraft.]] | PubMed | 07_Protein Design |
-| 6 | [[inbox/2026-11-07-pubmed-42990416|Tau is an m 6 A-associated RNA binding protein that causes RNA dysregulation in disease.]] | PubMed | 01_RNA Biology |
-| 5 | [[inbox/2026-11-07-pubmed-42987985|AI-Enhanced CRISPR-Cas9 Therapeutics: Advances in Precision, Safety, and Delivery.]] | PubMed | 00_Reviews |
-| 5 | [[inbox/2026-11-07-pubmed-42990591|AI-powered generative mRNA design: GEMORNA enables efficient expression and delivery for next-generation RNA therapeutics.]] | PubMed | 01_RNA Biology |
-| 5 | [[inbox/2026-11-07-pubmed-42988191|Computational Structural Dynamics and Preliminary Heterologous Expression Suggest a "Rigid-Anchor, Flexible-Melting" RNA Chaperone Mechanism for Rice OsCSP1.]] | PubMed | 03_RNA Structure Prediction |
-| 5 | [[inbox/2026-11-07-pubmed-42990184|Differential Survival of Retinal Ganglion Cell Types Following Branch Retinal Vein Occlusion.]] | PubMed | 01_RNA Biology |
-| 5 | [[inbox/2026-11-07-pubmed-42990240|MultiFlow: coupled flow matching for predicting single-cell multiomic perturbation responses in unseen cellular contexts.]] | PubMed | 09_Datasets & Databases |

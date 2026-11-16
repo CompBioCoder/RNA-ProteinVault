@@ -1,12 +1,20 @@
 ---
 title: RNA × Protein 文献雷达
 publish: true
-date: 2026-11-15
+date: 2026-11-16
 ---
 
 每天自动抓取 arXiv / bioRxiv / PubMed，关键词打分后只留最相关的几篇。⭐ = 已标为必读。
 
 → [[starred|必读清单]] · [[topics|分类总览]]
+
+## 2026-11-16（3 篇）
+
+| 分 | 论文 | 来源 | 分类 |
+|:-:|---|---|---|
+| 12 | [[inbox/2026-11-16-pubmed-43034843|RNA-binding proteome dynamics following ischemia-reperfusion injury in the kidney.]] | PubMed | 01_RNA Biology |
+| 11 | [[inbox/2026-11-16-pubmed-43032926|Structure of a dopamine-binding RNA aptamer reveals metal-mediated ligand recognition.]] | PubMed | 05_RNA Sequence Design |
+| 7 | [[inbox/2026-11-16-pubmed-43033435|RNA-binding protein Rbfox2 establishes lipid gene programs through hierarchical control of transcription factors in the embryonic heart.]] | PubMed | 01_RNA Biology |
 
 ## 2026-11-15（8 篇）
 
@@ -74,13 +82,3 @@ date: 2026-11-15
 | 7 | [[inbox/2026-11-09-pubmed-42999923|Cold-Inducible RNA-Binding Protein Alleviates Hypertensive Renal Injury Through the KEAP1-NRF2 Pathway.]] | PubMed | 01_RNA Biology |
 | 6 | [[inbox/2026-11-09-pubmed-42996015|AltORF-encoded microprotein recruits primary-ORF-encoded dehydrogenase to cell poles upon heat shock.]] | PubMed | 01_RNA Biology |
 | 4 | [[inbox/2026-11-09-biorxiv-2026.11.03.764019|A three-factor model can explain symmetry breaking and the n-1 rule during X-chromosome inactivation]] | bioRxiv | 01_RNA Biology |
-
-## 2026-11-08（5 篇）
-
-| 分 | 论文 | 来源 | 分类 |
-|:-:|---|---|---|
-| 14 | [[inbox/2026-11-08-pubmed-42994987|The evolutionary conserved protein-RNA interface formed by the cell-fate regulator Bicaudal-C.]] | PubMed | 03_RNA Structure Prediction |
-| 5 | [[inbox/2026-11-08-pubmed-42994664|Cryo-EM structure of a near-planar 13-mer ring formed by recombinant human parainfluenza virus type 2 nucleoprotein.]] | PubMed | 02_RNA Structure |
-| 4 | [[inbox/2026-11-08-pubmed-42994428|PARP1 hyperactivation uncouples transcription from protein expression through nuclear RNA retention.]] | PubMed | 01_RNA Biology |
-| 4 | [[inbox/2026-11-08-pubmed-42994986|RNA-dependent aggregation of a common TEV protease variant alters in vitro biomolecular condensate reconstitution.]] | PubMed | 01_RNA Biology |
-| 4 | [[inbox/2026-11-08-pubmed-42994707|Sorcin phase separation restrains p53 translation via stress granules to prevent hepatic stellate cell senescence in liver fibrosis.]] | PubMed | 09_Datasets & Databases |

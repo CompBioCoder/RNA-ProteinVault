@@ -1,12 +1,25 @@
 ---
 title: RNA × Protein 文献雷达
 publish: true
-date: 2026-11-17
+date: 2026-11-18
 ---
 
 每天自动抓取 arXiv / bioRxiv / PubMed，关键词打分后只留最相关的几篇。⭐ = 已标为必读。
 
 → [[starred|必读清单]] · [[topics|分类总览]]
+
+## 2026-11-18（8 篇）
+
+| 分 | 论文 | 来源 | 分类 |
+|:-:|---|---|---|
+| 10 | [[inbox/2026-11-18-pubmed-43039219|The Emerging m6A-DNA Methylation Axis in Cancer: Linking the Epitranscriptome and Epigenome.]] | PubMed | 01_RNA Biology |
+| 9 | [[inbox/2026-11-18-pubmed-43040498|K9HeartCircDB: a circRNA atlas of tachypacing-induced canine dilated cardiomyopathy.]] | PubMed | 09_Datasets & Databases |
+| 7 | [[inbox/2026-11-18-pubmed-43040963|An overview on the role of aptamer-functionalised nanocarriers in targeted delivery of microRNA therapeutics for cancer treatment.]] | PubMed | 00_Reviews |
+| 7 | [[inbox/2026-11-18-pubmed-43039891|Developing and benchmarking one health genomic surveillance tools for influenza A virus in wastewater.]] | PubMed | 09_Datasets & Databases |
+| 7 | [[inbox/2026-11-18-pubmed-43037128|Evolutionary rewiring of the Drosophila melanogaster accessory gland by the RNA-binding protein gene, Marf1.]] | PubMed | 01_RNA Biology |
+| 4 | [[inbox/2026-11-18-pubmed-43041732|A tale of a different tail: does the H3f3b 3'UTR explain the divergent knockout phenotypes?]] | PubMed | 01_RNA Biology |
+| 4 | [[inbox/2026-11-18-pubmed-43041972|AI-guided CRISPR gene editing for cardiovascular disease: Current progress, transitional challenges, and future directions.]] | PubMed | 00_Reviews |
+| 4 | [[inbox/2026-11-18-pubmed-43042720|Genetically Encoded Engineering Switchable Circular RNA Devices for Targeted Protein Degradation.]] | PubMed | 05_RNA Sequence Design |
 
 ## 2026-11-16（3 篇）
 
@@ -61,11 +74,3 @@ date: 2026-11-17
 | 5 | [[inbox/2026-11-11-pubmed-43005542|Engineering aptamer-based therapeutics for precision cancer immunotherapy: from molecular targeting to clinical applications.]] | PubMed | 00_Reviews |
 | 4 | [[inbox/2026-11-11-pubmed-43007784|Electron Microscopy Identifies Protein Conformational Substates in Liquid Environment.]] | PubMed | 01_RNA Biology |
 | 4 | [[inbox/2026-11-11-biorxiv-2026.11.05.764733|Palindrome Presence, Location, and Structural Context Are Predictive of RNA Self-Association]] | bioRxiv | 03_RNA Structure Prediction |
-
-## 2026-11-10（3 篇）
-
-| 分 | 论文 | 来源 | 分类 |
-|:-:|---|---|---|
-| 13 | [[inbox/2026-11-10-pubmed-43002601|Impact of training data on deep learning-based RNA 3D structure quality assessment.]] | PubMed | 04_RNA Structure Assessment |
-| 7 | [[inbox/2026-11-10-pubmed-43001935|LESS-PseU: A Language Model-Enhanced Semistacking Framework for RNA Pseudouridine Site Prediction.]] | PubMed | 09_Datasets & Databases |
-| 4 | [[inbox/2026-11-10-pubmed-43001908|Mutations in the nsP1 dodecamerization surface impair Semliki Forest virus RNA synthesis in mosquito cells.]] | PubMed | 01_RNA Biology |

@@ -1,12 +1,21 @@
 ---
 title: RNA × Protein 文献雷达
 publish: true
-date: 2026-11-18
+date: 2026-11-19
 ---
 
 每天自动抓取 arXiv / bioRxiv / PubMed，关键词打分后只留最相关的几篇。⭐ = 已标为必读。
 
 → [[starred|必读清单]] · [[topics|分类总览]]
+
+## 2026-11-19（4 篇）
+
+| 分 | 论文 | 来源 | 分类 |
+|:-:|---|---|---|
+| 10 | [[inbox/2026-11-19-pubmed-43046861|All Roads Lead to Rome: Non-canonical Modulators of RNA Metabolism in ALS Pathogenesis.]] | PubMed | 00_Reviews |
+| 9 | [[inbox/2026-11-19-pubmed-43044699|An unexpectedly well-organized ligand-free conformation provides an alternative view of theophylline aptamer recognition.]] | PubMed | 05_RNA Sequence Design |
+| 8 | [[inbox/2026-11-19-pubmed-43048856|Conformationally heterogeneous RNA stem-loops enable dimerization-assisted assembly of SARS-CoV-2 Nsp9.]] | PubMed | 02_RNA Structure |
+| 7 | [[inbox/2026-11-19-pubmed-43046413|Structure-Guided Design of an m1A Demethylation-Activated Aptamer for Live-Cell Monitoring of ALKBH3 Demethylase Activity.]] | PubMed | 05_RNA Sequence Design |
 
 ## 2026-11-18（8 篇）
 
@@ -65,12 +74,3 @@ date: 2026-11-18
 | 11 | [[inbox/2026-11-13-pubmed-43013395|RNA-binding protein RBM34 promotes hepatic fibrosis by enhancing DROSHA-mediated nuclear export of Loxl2 mRNA.]] | PubMed | 00_Reviews |
 | 10 | [[inbox/2026-11-13-pubmed-43017785|PARP1 hyperactivation: mechanisms and cellular consequences.]] | PubMed | 01_RNA Biology |
 | 10 | [[inbox/2026-11-13-pubmed-43008691|Structure-guided optimization of the A58 DNA aptamer targeting the SARS-CoV-2 nucleocapsid protein through integrated computational analysis.]] | PubMed | 05_RNA Sequence Design |
-
-## 2026-11-11（4 篇）
-
-| 分 | 论文 | 来源 | 分类 |
-|:-:|---|---|---|
-| 15 | [[inbox/2026-11-11-pubmed-43004028|Mitochondria-RNA Binding Protein Crosstalk in Neurodegeneration: Mechanisms Linking Mitochondrial Stress, RNA Dysregulation and Neuronal Vulnerability.]] | PubMed | 00_Reviews |
-| 5 | [[inbox/2026-11-11-pubmed-43005542|Engineering aptamer-based therapeutics for precision cancer immunotherapy: from molecular targeting to clinical applications.]] | PubMed | 00_Reviews |
-| 4 | [[inbox/2026-11-11-pubmed-43007784|Electron Microscopy Identifies Protein Conformational Substates in Liquid Environment.]] | PubMed | 01_RNA Biology |
-| 4 | [[inbox/2026-11-11-biorxiv-2026.11.05.764733|Palindrome Presence, Location, and Structural Context Are Predictive of RNA Self-Association]] | bioRxiv | 03_RNA Structure Prediction |

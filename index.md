@@ -1,12 +1,22 @@
 ---
 title: RNA × Protein 文献雷达
 publish: true
-date: 2026-11-19
+date: 2026-11-20
 ---
 
 每天自动抓取 arXiv / bioRxiv / PubMed，关键词打分后只留最相关的几篇。⭐ = 已标为必读。
 
 → [[starred|必读清单]] · [[topics|分类总览]]
+
+## 2026-11-20（5 篇）
+
+| 分 | 论文 | 来源 | 分类 |
+|:-:|---|---|---|
+| 12 | [[inbox/2026-11-20-pubmed-43055515|G4SAINT enables interpretable prediction of RNA G-quadruplex binding proteins across the human proteome via domain-guided learning.]] | PubMed | 06_Protein Prediction |
+| 8 | [[inbox/2026-11-20-arxiv-2611.24513|Electrostatic interactions drive the self-assembly of secondary coat-protein layers around wild-type MS2 particles]] | arXiv | 01_RNA Biology |
+| 5 | [[inbox/2026-11-20-pubmed-43056316|Correction: The RNA-binding protein Puf5 and the HMGB protein Ixr1 regulate cell cycle-specific expression of CLB1 and CLB2 in Saccharomyces cerevisiae.]] | PubMed | 01_RNA Biology |
+| 5 | [[inbox/2026-11-20-arxiv-2611.24739|Uneven gains in protein-RNA affinity and mutation-effect prediction]] | arXiv | 01_RNA Biology |
+| 4 | [[inbox/2026-11-20-pubmed-43056037|GRSF1 Ameliorates Neurological Impairment in Cerebral Ischemia/Reperfusion Mice via Regulating Mul1/Mfn2-Mediated Mitochondrial Dynamics and Bioenergetics.]] | PubMed | 01_RNA Biology |
 
 ## 2026-11-19（4 篇）
 

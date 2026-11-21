@@ -1,7 +1,7 @@
 ---
 title: RNA × Protein 文献雷达
 publish: true
-date: 2026-11-20
+date: 2026-11-21
 ---
 
 每天自动抓取 arXiv / bioRxiv / PubMed，关键词打分后只留最相关的几篇。⭐ = 已标为必读。
@@ -71,16 +71,3 @@ date: 2026-11-20
 | 4 | [[inbox/2026-11-14-pubmed-43024504|G3BP1-mediated RNA-RNA interactions regulate stress granule assembly.]] | PubMed | 02_RNA Structure |
 | 4 | [[inbox/2026-11-14-pubmed-43020947|PIWIL2 suppresses pluripotency in the male mouse germline.]] | PubMed | 01_RNA Biology |
 | 4 | [[inbox/2026-11-14-pubmed-43022293|RBM42 couples alternative splicing to cytoskeletal organization to direct cortical development.]] | PubMed | 01_RNA Biology |
-
-## 2026-11-13（8 篇）
-
-| 分 | 论文 | 来源 | 分类 |
-|:-:|---|---|---|
-| 20 | [[inbox/2026-11-13-pubmed-43010843|oRNAment V2: an expanded database of putative RNA binding protein target sites in the transcriptomes of diverse model species.]] | PubMed | 02_RNA Structure |
-| 15 | [[inbox/2026-11-13-pubmed-43018555|Medicinal Chemistry Strategies for Targeting RNA-Binding Proteins: Design, Optimization, and Therapeutic Potential.]] | PubMed | 01_RNA Biology |
-| 15 | [[inbox/2026-11-13-pubmed-43013389|RNA-binding protein NOC4L governs early natural killer cell development through dual post-transcriptional mechanisms.]] | PubMed | 02_RNA Structure |
-| 11 | [[inbox/2026-11-13-pubmed-43011589|CLIPittyClip: a single-command framework for CLIP sequencing data analysis.]] | PubMed | 03_RNA Structure Prediction |
-| 11 | [[inbox/2026-11-13-biorxiv-2026.03.23.713157|Molecular Modulation of the SAM-I Riboswitch Drives Global Dynamical Shifts]] | bioRxiv | 05_RNA Sequence Design |
-| 11 | [[inbox/2026-11-13-pubmed-43013395|RNA-binding protein RBM34 promotes hepatic fibrosis by enhancing DROSHA-mediated nuclear export of Loxl2 mRNA.]] | PubMed | 00_Reviews |
-| 10 | [[inbox/2026-11-13-pubmed-43017785|PARP1 hyperactivation: mechanisms and cellular consequences.]] | PubMed | 01_RNA Biology |
-| 10 | [[inbox/2026-11-13-pubmed-43008691|Structure-guided optimization of the A58 DNA aptamer targeting the SARS-CoV-2 nucleocapsid protein through integrated computational analysis.]] | PubMed | 05_RNA Sequence Design |

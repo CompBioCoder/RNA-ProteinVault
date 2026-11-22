@@ -1,12 +1,25 @@
 ---
 title: RNA × Protein 文献雷达
 publish: true
-date: 2026-11-21
+date: 2026-11-22
 ---
 
 每天自动抓取 arXiv / bioRxiv / PubMed，关键词打分后只留最相关的几篇。⭐ = 已标为必读。
 
 → [[starred|必读清单]] · [[topics|分类总览]]
+
+## 2026-11-22（8 篇）
+
+| 分 | 论文 | 来源 | 分类 |
+|:-:|---|---|---|
+| 19 | [[inbox/2026-11-22-pubmed-43060432|Rēs ipSAE adhūc loquuntur : What the directionality of predicted aligned error in cofolding models can tell us about scoring diverse molecular complexes.]] | PubMed | 04_RNA Structure Assessment |
+| 16 | [[inbox/2026-11-22-pubmed-43060129|RNA accessibility sequencing reveals transcriptome-wide RBP binding and RNA structure.]] | PubMed | 03_RNA Structure Prediction |
+| 15 | [[inbox/2026-11-22-pubmed-43060011|GraPhiT-RBP: Graph Transformers and Residue-Level Cross-Attention for Interpretable RNA-Protein Binding Prediction.]] | PubMed | 02_RNA Structure |
+| 9 | [[inbox/2026-11-22-pubmed-43063916|Predictive RNA-Ligand Binding Free Energy Perturbation through Preparatory Simulations and Polarizable Force Fields.]] | PubMed | 05_RNA Sequence Design |
+| 8 | [[inbox/2026-11-22-pubmed-43060156|Amyloid stability and condensate material properties independently govern the hnRNPA2 condensate to fibril transition.]] | PubMed | 03_RNA Structure Prediction |
+| 6 | [[inbox/2026-11-22-pubmed-43060111|An interplay of multilayered regulatory mechanisms underlies the RNA solubility phase transition during vertebrate oocyte-to-embryo transition.]] | PubMed | 02_RNA Structure |
+| 6 | [[inbox/2026-11-22-pubmed-43063820|Computational design and structural characterization of an AI-assisted circRNA vaccine against Toxoplasma gondii.]] | PubMed | 01_RNA Biology |
+| 5 | [[inbox/2026-11-22-pubmed-43065609|The next frontier of peptide therapeutics: from targeted conjugates (PDC/ODC) to AI-driven safety-by-design.]] | PubMed | 00_Reviews |
 
 ## 2026-11-20（5 篇）
 
@@ -60,14 +73,3 @@ date: 2026-11-21
 | 7 | [[inbox/2026-11-15-pubmed-43027349|Comprehensive Proteomics Reveals Pachymic Acid Targeting RBMX via hnRNPC Degradation in Colorectal Cancer.]] | PubMed | 02_RNA Structure |
 | 6 | [[inbox/2026-11-15-pubmed-43027924|Emerging Computational Advances in Simulating PCSK9 Variant Dynamics for Therapeutic Design Against Hypercholesterolemia.]] | PubMed | 00_Reviews |
 | 4 | [[inbox/2026-11-15-pubmed-43031712|The baseline predictive value of the RNA-binding proteins IGF2BP3/IMP3 and UPF1 for in-stent restenosis after percutaneous coronary intervention in acute coronary syndrome: a retrospective cohort study.]] | PubMed | 01_RNA Biology |
-
-## 2026-11-14（6 篇）
-
-| 分 | 论文 | 来源 | 分类 |
-|:-:|---|---|---|
-| 15 | [[inbox/2026-11-14-pubmed-43023614|Host RNA-binding protein LARP6 controls SARS-CoV-2 programmed -1 ribosomal frameshifting.]] | PubMed | 02_RNA Structure |
-| 15 | [[inbox/2026-11-14-pubmed-43023405|LUNA-FM: a subword foundation model for long non-coding RNAs for functional inference.]] | PubMed | 02_RNA Structure |
-| 6 | [[inbox/2026-11-14-arxiv-2611.15109|Expanding the Decision Space of Pretrained Models through Structured Re-Decoding]] | arXiv | 03_RNA Structure Prediction |
-| 4 | [[inbox/2026-11-14-pubmed-43024504|G3BP1-mediated RNA-RNA interactions regulate stress granule assembly.]] | PubMed | 02_RNA Structure |
-| 4 | [[inbox/2026-11-14-pubmed-43020947|PIWIL2 suppresses pluripotency in the male mouse germline.]] | PubMed | 01_RNA Biology |
-| 4 | [[inbox/2026-11-14-pubmed-43022293|RBM42 couples alternative splicing to cytoskeletal organization to direct cortical development.]] | PubMed | 01_RNA Biology |

@@ -1,12 +1,21 @@
 ---
 title: RNA × Protein 文献雷达
 publish: true
-date: 2026-11-22
+date: 2026-11-23
 ---
 
 每天自动抓取 arXiv / bioRxiv / PubMed，关键词打分后只留最相关的几篇。⭐ = 已标为必读。
 
 → [[starred|必读清单]] · [[topics|分类总览]]
+
+## 2026-11-23（4 篇）
+
+| 分 | 论文 | 来源 | 分类 |
+|:-:|---|---|---|
+| 8 | [[inbox/2026-11-23-pubmed-43067983|The RNA-binding protein RPS3 accelerates cell cycling via the Wnt/β-catenin signaling pathway in pancreatic cancer.]] | PubMed | 02_RNA Structure |
+| 5 | [[inbox/2026-11-23-pubmed-43067778|Computational modeling of an RNA-peptide world.]] | PubMed | 03_RNA Structure Prediction |
+| 5 | [[inbox/2026-11-23-biorxiv-2026.11.18.767577|Learning RNA secondary structure from chemical probing with MXfold2]] | bioRxiv | 03_RNA Structure Prediction |
+| 4 | [[inbox/2026-11-23-pubmed-43066878|Stress Granule Dysregulation in Neurodegenerative Diseases: From Adaptive Responses to Pathological Protein Aggregation.]] | PubMed | 00_Reviews |
 
 ## 2026-11-22（8 篇）
 
@@ -60,16 +69,3 @@ date: 2026-11-22
 | 12 | [[inbox/2026-11-16-pubmed-43034843|RNA-binding proteome dynamics following ischemia-reperfusion injury in the kidney.]] | PubMed | 01_RNA Biology |
 | 11 | [[inbox/2026-11-16-pubmed-43032926|Structure of a dopamine-binding RNA aptamer reveals metal-mediated ligand recognition.]] | PubMed | 05_RNA Sequence Design |
 | 7 | [[inbox/2026-11-16-pubmed-43033435|RNA-binding protein Rbfox2 establishes lipid gene programs through hierarchical control of transcription factors in the embryonic heart.]] | PubMed | 01_RNA Biology |
-
-## 2026-11-15（8 篇）
-
-| 分 | 论文 | 来源 | 分类 |
-|:-:|---|---|---|
-| 15 | [[inbox/2026-11-15-pubmed-43026484|MiR156-dependent and miR156-independent effects of the RNA-binding protein AtGRP7 on vegetative phase change in Arabidopsis.]] | PubMed | 01_RNA Biology |
-| 13 | [[inbox/2026-11-15-pubmed-43029177|Ribozymes, DNAzymes, and Fluorescent Aptamers: Diversity, Mechanisms, and Prospects for Bioanalytical Applications.]] | PubMed | 00_Reviews |
-| 10 | [[inbox/2026-11-15-pubmed-43028212|GAC-BiT-CNN: A Hybrid Generative Adversarial Capsule-Transformer-CNN Model with Fused Protein Language Model Embeddings for Methyltransferase Prediction.]] | PubMed | 06_Protein Prediction |
-| 10 | [[inbox/2026-11-15-pubmed-43026333|HuR coordinates cytokine translation and maturation through ER-associated RNA granules.]] | PubMed | 01_RNA Biology |
-| 8 | [[inbox/2026-11-15-pubmed-43027897|Pyrrolocytosine as a Fluorescent Sensor of RNA-Small Molecule Interactions.]] | PubMed | 05_RNA Sequence Design |
-| 7 | [[inbox/2026-11-15-pubmed-43027349|Comprehensive Proteomics Reveals Pachymic Acid Targeting RBMX via hnRNPC Degradation in Colorectal Cancer.]] | PubMed | 02_RNA Structure |
-| 6 | [[inbox/2026-11-15-pubmed-43027924|Emerging Computational Advances in Simulating PCSK9 Variant Dynamics for Therapeutic Design Against Hypercholesterolemia.]] | PubMed | 00_Reviews |
-| 4 | [[inbox/2026-11-15-pubmed-43031712|The baseline predictive value of the RNA-binding proteins IGF2BP3/IMP3 and UPF1 for in-stent restenosis after percutaneous coronary intervention in acute coronary syndrome: a retrospective cohort study.]] | PubMed | 01_RNA Biology |

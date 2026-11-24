@@ -1,12 +1,25 @@
 ---
 title: RNA × Protein 文献雷达
 publish: true
-date: 2026-11-23
+date: 2026-11-24
 ---
 
 每天自动抓取 arXiv / bioRxiv / PubMed，关键词打分后只留最相关的几篇。⭐ = 已标为必读。
 
 → [[starred|必读清单]] · [[topics|分类总览]]
+
+## 2026-11-24（8 篇）
+
+| 分 | 论文 | 来源 | 分类 |
+|:-:|---|---|---|
+| 19 | [[inbox/2026-11-24-pubmed-43070155|Reprogramming mRNA localization by targeted RNA-protein interference reveals roles in oncogenesis.]] | PubMed | 01_RNA Biology |
+| 16 | [[inbox/2026-11-24-pubmed-43068716|Dynamic interplay between RNA-binding proteins and non-coding RNAs in glioma.]] | PubMed | 00_Reviews |
+| 16 | [[inbox/2026-11-24-pubmed-43070636|GSP: a multi-scale metric for evaluation of 3D RNA structure predictions.]] | PubMed | 04_RNA Structure Assessment |
+| 8 | [[inbox/2026-11-24-pubmed-43070966|Deep-Learning Predictions of Biomolecular Structures: Persistent Limitations and New Horizons Extended by Explicit Ion Addition.]] | PubMed | 00_Reviews |
+| 7 | [[inbox/2026-11-24-pubmed-43069258|Unconventional DNA architecture in a dopamine-bound aptamer complex.]] | PubMed | 05_RNA Sequence Design |
+| 6 | [[inbox/2026-11-24-pubmed-43072594|RNAbridge: a database of extended non-canonical helices.]] | PubMed | 03_RNA Structure Prediction |
+| 4 | [[inbox/2026-11-24-pubmed-43073026|From Determinants to Condensates: Revisiting the Function of Germ Granules.]] | PubMed | 01_RNA Biology |
+| 4 | [[inbox/2026-11-24-pubmed-43068728|Natural herbal products suppress hepatocellular carcinoma by inhibiting microRNA-21-5p biogenesis.]] | PubMed | 07_Protein Design |
 
 ## 2026-11-23（4 篇）
 
@@ -61,11 +74,3 @@ date: 2026-11-23
 | 4 | [[inbox/2026-11-18-pubmed-43041732|A tale of a different tail: does the H3f3b 3'UTR explain the divergent knockout phenotypes?]] | PubMed | 01_RNA Biology |
 | 4 | [[inbox/2026-11-18-pubmed-43041972|AI-guided CRISPR gene editing for cardiovascular disease: Current progress, transitional challenges, and future directions.]] | PubMed | 00_Reviews |
 | 4 | [[inbox/2026-11-18-pubmed-43042720|Genetically Encoded Engineering Switchable Circular RNA Devices for Targeted Protein Degradation.]] | PubMed | 05_RNA Sequence Design |
-
-## 2026-11-16（3 篇）
-
-| 分 | 论文 | 来源 | 分类 |
-|:-:|---|---|---|
-| 12 | [[inbox/2026-11-16-pubmed-43034843|RNA-binding proteome dynamics following ischemia-reperfusion injury in the kidney.]] | PubMed | 01_RNA Biology |
-| 11 | [[inbox/2026-11-16-pubmed-43032926|Structure of a dopamine-binding RNA aptamer reveals metal-mediated ligand recognition.]] | PubMed | 05_RNA Sequence Design |
-| 7 | [[inbox/2026-11-16-pubmed-43033435|RNA-binding protein Rbfox2 establishes lipid gene programs through hierarchical control of transcription factors in the embryonic heart.]] | PubMed | 01_RNA Biology |

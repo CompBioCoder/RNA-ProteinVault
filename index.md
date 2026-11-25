@@ -1,12 +1,18 @@
 ---
 title: RNA × Protein 文献雷达
 publish: true
-date: 2026-11-24
+date: 2026-11-25
 ---
 
 每天自动抓取 arXiv / bioRxiv / PubMed，关键词打分后只留最相关的几篇。⭐ = 已标为必读。
 
 → [[starred|必读清单]] · [[topics|分类总览]]
+
+## 2026-11-25（1 篇）
+
+| 分 | 论文 | 来源 | 分类 |
+|:-:|---|---|---|
+| 14 | [[inbox/2026-11-25-pubmed-43074123|High-Risk HPVs Rewire the RNA Landscape: Translational Control as a Driver of Cancer.]] | PubMed | 01_RNA Biology |
 
 ## 2026-11-24（8 篇）
 

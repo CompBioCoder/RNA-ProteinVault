@@ -1,12 +1,25 @@
 ---
 title: RNA × Protein 文献雷达
 publish: true
-date: 2026-11-25
+date: 2026-11-26
 ---
 
 每天自动抓取 arXiv / bioRxiv / PubMed，关键词打分后只留最相关的几篇。⭐ = 已标为必读。
 
 → [[starred|必读清单]] · [[topics|分类总览]]
+
+## 2026-11-26（8 篇）
+
+| 分 | 论文 | 来源 | 分类 |
+|:-:|---|---|---|
+| 28 | [[inbox/2026-11-26-pubmed-43081926|HARP-RPA: Interface-Aware HeteroPairFormer for Protein-RNA Binding Affinity Prediction.]] | PubMed | 03_RNA Structure Prediction |
+| 11 | [[inbox/2026-11-26-pubmed-43079124|Energy metabolism-related functional modules are enriched among RBPs binding near pseudouridylated mRNA sites.]] | PubMed | 09_Datasets & Databases |
+| 10 | [[inbox/2026-11-26-pubmed-43080546|Atorvastatin-induced neuroprotection against NMDA-induced retinal excitotoxicity: association with altered retinal PPARα and PPARγ expression.]] | PubMed | 04_RNA Structure Assessment |
+| 9 | [[inbox/2026-11-26-biorxiv-2026.11.20.768169|Structural and Biophysical Basis of the First DNA Aptamer Targeting the Dynamic p47 Adaptor of the p97 AAA+ Machine]] | bioRxiv | 05_RNA Sequence Design |
+| 8 | [[inbox/2026-11-26-pubmed-43081549|An Orthogonal Computational Framework Identifies a Conserved RNA Motif in the SARS-CoV-2 Spike Gene.]] | PubMed | 04_RNA Structure Assessment |
+| 8 | [[inbox/2026-11-26-arxiv-2611.33812|KnitNet: Learning to Search at Inference Time for Exact RNA Inverse Design]] | arXiv | 05_RNA Sequence Design |
+| 7 | [[inbox/2026-11-26-pubmed-43079253|Extracellular cold-inducible RNA-binding protein in renal ischemia-reperfusion injury and its progression to chronic kidney disease.]] | PubMed | 00_Reviews |
+| 6 | [[inbox/2026-11-26-pubmed-43081946|Nucleic acid 3D structure search and alignment with GTalign.]] | PubMed | 09_Datasets & Databases |
 
 ## 2026-11-25（1 篇）
 
@@ -67,16 +80,3 @@ date: 2026-11-25
 | 9 | [[inbox/2026-11-19-pubmed-43044699|An unexpectedly well-organized ligand-free conformation provides an alternative view of theophylline aptamer recognition.]] | PubMed | 05_RNA Sequence Design |
 | 8 | [[inbox/2026-11-19-pubmed-43048856|Conformationally heterogeneous RNA stem-loops enable dimerization-assisted assembly of SARS-CoV-2 Nsp9.]] | PubMed | 02_RNA Structure |
 | 7 | [[inbox/2026-11-19-pubmed-43046413|Structure-Guided Design of an m1A Demethylation-Activated Aptamer for Live-Cell Monitoring of ALKBH3 Demethylase Activity.]] | PubMed | 05_RNA Sequence Design |
-
-## 2026-11-18（8 篇）
-
-| 分 | 论文 | 来源 | 分类 |
-|:-:|---|---|---|
-| 10 | [[inbox/2026-11-18-pubmed-43039219|The Emerging m6A-DNA Methylation Axis in Cancer: Linking the Epitranscriptome and Epigenome.]] | PubMed | 01_RNA Biology |
-| 9 | [[inbox/2026-11-18-pubmed-43040498|K9HeartCircDB: a circRNA atlas of tachypacing-induced canine dilated cardiomyopathy.]] | PubMed | 09_Datasets & Databases |
-| 7 | [[inbox/2026-11-18-pubmed-43040963|An overview on the role of aptamer-functionalised nanocarriers in targeted delivery of microRNA therapeutics for cancer treatment.]] | PubMed | 00_Reviews |
-| 7 | [[inbox/2026-11-18-pubmed-43039891|Developing and benchmarking one health genomic surveillance tools for influenza A virus in wastewater.]] | PubMed | 09_Datasets & Databases |
-| 7 | [[inbox/2026-11-18-pubmed-43037128|Evolutionary rewiring of the Drosophila melanogaster accessory gland by the RNA-binding protein gene, Marf1.]] | PubMed | 01_RNA Biology |
-| 4 | [[inbox/2026-11-18-pubmed-43041732|A tale of a different tail: does the H3f3b 3'UTR explain the divergent knockout phenotypes?]] | PubMed | 01_RNA Biology |
-| 4 | [[inbox/2026-11-18-pubmed-43041972|AI-guided CRISPR gene editing for cardiovascular disease: Current progress, transitional challenges, and future directions.]] | PubMed | 00_Reviews |
-| 4 | [[inbox/2026-11-18-pubmed-43042720|Genetically Encoded Engineering Switchable Circular RNA Devices for Targeted Protein Degradation.]] | PubMed | 05_RNA Sequence Design |

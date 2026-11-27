@@ -1,12 +1,21 @@
 ---
 title: RNA × Protein 文献雷达
 publish: true
-date: 2026-11-26
+date: 2026-11-27
 ---
 
 每天自动抓取 arXiv / bioRxiv / PubMed，关键词打分后只留最相关的几篇。⭐ = 已标为必读。
 
 → [[starred|必读清单]] · [[topics|分类总览]]
+
+## 2026-11-27（4 篇）
+
+| 分 | 论文 | 来源 | 分类 |
+|:-:|---|---|---|
+| 9 | [[inbox/2026-11-27-pubmed-43094263|Beyond mRNA vaccines: the expanding landscape of RNA therapeutics in oncology.]] | PubMed | 00_Reviews |
+| 7 | [[inbox/2026-11-27-pubmed-43095902|Universal 3D motif dynamics in RNA: the A-minor switch.]] | PubMed | 02_RNA Structure |
+| 4 | [[inbox/2026-11-27-pubmed-43094351|Biophysical behavior of phase-separated biological macromolecules under stress in plants: recent updates and future perspectives.]] | PubMed | 00_Reviews |
+| 4 | [[inbox/2026-11-27-pubmed-43089970|Synergistic Epigenetic and Post-Transcriptional Regulation of Alveolar Bone Resorption.]] | PubMed | 00_Reviews |
 
 ## 2026-11-26（8 篇）
 
@@ -71,12 +80,3 @@ date: 2026-11-26
 | 5 | [[inbox/2026-11-20-pubmed-43056316|Correction: The RNA-binding protein Puf5 and the HMGB protein Ixr1 regulate cell cycle-specific expression of CLB1 and CLB2 in Saccharomyces cerevisiae.]] | PubMed | 01_RNA Biology |
 | 5 | [[inbox/2026-11-20-arxiv-2611.24739|Uneven gains in protein-RNA affinity and mutation-effect prediction]] | arXiv | 01_RNA Biology |
 | 4 | [[inbox/2026-11-20-pubmed-43056037|GRSF1 Ameliorates Neurological Impairment in Cerebral Ischemia/Reperfusion Mice via Regulating Mul1/Mfn2-Mediated Mitochondrial Dynamics and Bioenergetics.]] | PubMed | 01_RNA Biology |
-
-## 2026-11-19（4 篇）
-
-| 分 | 论文 | 来源 | 分类 |
-|:-:|---|---|---|
-| 10 | [[inbox/2026-11-19-pubmed-43046861|All Roads Lead to Rome: Non-canonical Modulators of RNA Metabolism in ALS Pathogenesis.]] | PubMed | 00_Reviews |
-| 9 | [[inbox/2026-11-19-pubmed-43044699|An unexpectedly well-organized ligand-free conformation provides an alternative view of theophylline aptamer recognition.]] | PubMed | 05_RNA Sequence Design |
-| 8 | [[inbox/2026-11-19-pubmed-43048856|Conformationally heterogeneous RNA stem-loops enable dimerization-assisted assembly of SARS-CoV-2 Nsp9.]] | PubMed | 02_RNA Structure |
-| 7 | [[inbox/2026-11-19-pubmed-43046413|Structure-Guided Design of an m1A Demethylation-Activated Aptamer for Live-Cell Monitoring of ALKBH3 Demethylase Activity.]] | PubMed | 05_RNA Sequence Design |

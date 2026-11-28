@@ -1,12 +1,25 @@
 ---
 title: RNA × Protein 文献雷达
 publish: true
-date: 2026-11-27
+date: 2026-11-28
 ---
 
 每天自动抓取 arXiv / bioRxiv / PubMed，关键词打分后只留最相关的几篇。⭐ = 已标为必读。
 
 → [[starred|必读清单]] · [[topics|分类总览]]
+
+## 2026-11-28（8 篇）
+
+| 分 | 论文 | 来源 | 分类 |
+|:-:|---|---|---|
+| 15 | [[inbox/2026-11-28-pubmed-43100448|High-throughput identification of changes in cellular localization for RNA-binding proteins during adenovirus infection reveals viral harnessing of nuclear speckles.]] | PubMed | 01_RNA Biology |
+| 8 | [[inbox/2026-11-28-pubmed-43100271|SMSTPred: Protein Language Model Embeddings Predict SAM-Methyltransferase Substrate Specificity and Reveal Metabolite Methyltransferasome Enrichment in Plants and Actinomycetota.]] | PubMed | 03_RNA Structure Prediction |
+| 4 | [[inbox/2026-11-28-pubmed-43100703|Development of a high-throughput protein array to discover selective dsRNA binding domain interactions.]] | PubMed | 02_RNA Structure |
+| 4 | [[inbox/2026-11-28-pubmed-43100689|Human Endogenous Retrovirus K RNA triggers cytoplasmic TDP-43 aggregation by initiating pathological nuclear condensates.]] | PubMed | 01_RNA Biology |
+| 4 | [[inbox/2026-11-28-pubmed-43100788|Integrated Multi-omics Mapping of Monocrotophos-induced Neurotoxicity: Quercetin-mediated Restoration of Molecular Homeostasis in SH-SY5Y Cells.]] | PubMed | 02_RNA Structure |
+| 4 | [[inbox/2026-11-28-pubmed-43102932|Nanos remodels Drosophila germ granules into multiphase condensates for germ cell specification.]] | PubMed | 01_RNA Biology |
+| 4 | [[inbox/2026-11-28-pubmed-43098556|RNA manipulation for synthetic biology: from molecular tools to programmable cellular systems.]] | PubMed | 00_Reviews |
+| 4 | [[inbox/2026-11-28-pubmed-43101233|The Role of Cold-Inducible RNA-Binding Protein in Myocardial Infarction: From a Stress Sensor to an Amplifier of Sterile Inflammation.]] | PubMed | 01_RNA Biology |
 
 ## 2026-11-27（4 篇）
 
@@ -70,13 +83,3 @@ date: 2026-11-27
 | 6 | [[inbox/2026-11-22-pubmed-43060111|An interplay of multilayered regulatory mechanisms underlies the RNA solubility phase transition during vertebrate oocyte-to-embryo transition.]] | PubMed | 02_RNA Structure |
 | 6 | [[inbox/2026-11-22-pubmed-43063820|Computational design and structural characterization of an AI-assisted circRNA vaccine against Toxoplasma gondii.]] | PubMed | 01_RNA Biology |
 | 5 | [[inbox/2026-11-22-pubmed-43065609|The next frontier of peptide therapeutics: from targeted conjugates (PDC/ODC) to AI-driven safety-by-design.]] | PubMed | 00_Reviews |
-
-## 2026-11-20（5 篇）
-
-| 分 | 论文 | 来源 | 分类 |
-|:-:|---|---|---|
-| 12 | [[inbox/2026-11-20-pubmed-43055515|G4SAINT enables interpretable prediction of RNA G-quadruplex binding proteins across the human proteome via domain-guided learning.]] | PubMed | 06_Protein Prediction |
-| 8 | [[inbox/2026-11-20-arxiv-2611.24513|Electrostatic interactions drive the self-assembly of secondary coat-protein layers around wild-type MS2 particles]] | arXiv | 01_RNA Biology |
-| 5 | [[inbox/2026-11-20-pubmed-43056316|Correction: The RNA-binding protein Puf5 and the HMGB protein Ixr1 regulate cell cycle-specific expression of CLB1 and CLB2 in Saccharomyces cerevisiae.]] | PubMed | 01_RNA Biology |
-| 5 | [[inbox/2026-11-20-arxiv-2611.24739|Uneven gains in protein-RNA affinity and mutation-effect prediction]] | arXiv | 01_RNA Biology |
-| 4 | [[inbox/2026-11-20-pubmed-43056037|GRSF1 Ameliorates Neurological Impairment in Cerebral Ischemia/Reperfusion Mice via Regulating Mul1/Mfn2-Mediated Mitochondrial Dynamics and Bioenergetics.]] | PubMed | 01_RNA Biology |
